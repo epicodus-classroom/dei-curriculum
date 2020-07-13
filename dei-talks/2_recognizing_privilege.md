@@ -16,9 +16,7 @@ Unfortunately, this lack of equality and equity is systemic - it doesn't just af
 
 ## Recognizing Privilege
 
-Why is the industry primarily white and male? There is no compelling evidence to show that white men have an innately better to code and work in the tech industry than other groups.
-
-In the United States, both whites and males have traditionally had more **privilege** than other underrepresented groups in the tech industry - and this trend continues to this day. **Privilege** is an unearned advantage that a group gives to some but not all people.
+Why is the industry primarily white and male? There is no compelling evidence to show that white men have innately better ability to code and work in the tech industry than other groups. Instead, both whites and males have traditionally had more **privilege** than other underrepresented groups in the tech industry - and this trend continues to this day. **Privilege** is an unearned advantage that a group gives to some but not all people. Because of systemic racism, sexism, and other societal issues, underrepresented groups are not given these same privileges.
 
 Anyone can have privilege. For instance, take a look at the chart below, which illustrates different kinds of privilege.
 
@@ -27,3 +25,5 @@ Anyone can have privilege. For instance, take a look at the chart below, which i
 (Source needed for image.)
 
 As we can see, there are many different kinds of privilege. In order to have a diverse and equitable tech industry, we need to neutralize this privilege and practice inclusion.
+
+Privilege can be a hot button topic for many, often because it's common to have some privileges but not others. Also, people are often afraid of losing the privileges they already have. However, equity is not about taking privileges away from people that already have them. Instead, it's about giving those privileges to everyone. In the case of the tech industry, that means providing opportunity to underrepresented groups.
