@@ -1,8 +1,12 @@
-Epicodus isn’t just a code school. It’s a community of peers, friends, allies, future coworkers and connections. To this end, we ask students to actively participate in making Epicodus a welcoming and safe community for everyone regardless of race, gender, disability, sexual orientation, age, religion, or other status. One way we do this is by consciously avoiding a type of hurtful interaction called a microaggression.
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On most Mondays, you will be expected to read a short lesson about that week's DEI topic. Then, on Tuesday, your instructor will lead a standup on that topic.
+
+This week, we will cover microaggressions: what they are, how they impact people, and how to recognize and prevent them.
+
+## Understanding Microaggressions
+
+Epicodus isn't just a code school. It's a community of peers, friends, allies, future coworkers and connections. To this end, we ask students to actively participate in making Epicodus a welcoming and safe community for everyone regardless of race, gender, disability, sexual orientation, age, religion, or other status. One way we do this is by consciously avoiding a type of hurtful interaction called a microaggression.
 
 A **microaggression** is a comment or action that (often unintentionally) implies prejudice toward marginalized groups or individuals. In this lesson we'll explore what these interactions look like, what to do when they happen, and how to avoid them entirely. We'll also explore how consciously avoiding microaggressive behavior fits into the larger umbrella of **allyship**.
-
-## What is a Microaggression?
 
 David Wang Sue, Professor of Psychology and Education at Columbia University, defines microaggressions as:
 
@@ -37,9 +41,9 @@ For these reasons, it's very important to take the impact of microaggressions se
 
 Now that we have a better understanding what microaggressions are, let's discuss how to prevent them. Here are important guidelines to follow:
 
-* Don’t call attention to a person’s status as a member of a minority community, even if you don’t mean it "negatively".
-* Don’t make jokes about marginalized groups or communities.
-* Don’t use terms that are disparaging toward minority groups, even if you're "just joking".
+* Don't call attention to a person's status as a member of a minority community, even if you don't mean it "negatively".
+* Don't make jokes about marginalized groups or communities.
+* Don't use terms that are disparaging toward minority groups, even if you're "just joking".
 * Examine your own implicit biases. Be aware of assumptions you have that may affect how you treat others; especially those of different backgrounds, statuses, communities, or upbringings.
 * Don't make statements or ask questions implying others may be less capable, or lacking in some manner.
 * Don't allow stereotypes to inform how you view, interact with, or discuss others.
@@ -49,34 +53,34 @@ Now that we have a better understanding what microaggressions are, let's discuss
 
 But what should we do if we are involved in a microaggression, whether as the target, a witness, or the person committing it? Let's outline best practices and guidelines on handling microaggressions from each of these three roles:
 
-### What Should I Do if I’ve Committed a Microaggression?
+### What Should I Do if I've Committed a Microaggression?
 
-If you stepped on someone’s foot, you'd apologize, right? Even if it was completely unintentional, you still stepped on them. And that can hurt! Well, the same goes for microaggressions; while their damaging "hidden messages" aren't always intended, they still hurt. So they deserve acknowledgement, an apology, and reflection to prevent them from occurring again. Here are steps to follow when you commit a microaggression:
+If you stepped on someone's foot, you'd apologize, right? Even if it was completely unintentional, you still stepped on them. And that can hurt! Well, the same goes for microaggressions; while their damaging "hidden messages" aren't always intended, they still hurt. So they deserve acknowledgement, an apology, and reflection to prevent them from occurring again. Here are steps to follow when you commit a microaggression:
 
-* Be proactive. If you realize you might have said something hurtful, call yourself out. Don’t wait for someone to confront you!
-* Acknowledge the impact. While it’s okay to clarify your intent (_“I didn’t mean to hurt your feelings”_), remember the impact your actions have on others is _not_ dependent upon your intent, and is equally valid.
+* Be proactive. If you realize you might have said something hurtful, call yourself out. Don't wait for someone to confront you!
+* Acknowledge the impact. While it's okay to clarify your intent (_“I didn't mean to hurt your feelings”_), remember the impact your actions have on others is _not_ dependent upon your intent, and is equally valid.
 * Apologize. Even if you didn't intend harm, the impact can be hurtful. The target's feelings are 100% valid.
-* Don’t pressure for information beyond what the other person volunteers. It's not the obligation of this person (or other members of marginalized groups) to educate you, or explain the intricacies of the situation. While it's acceptable to ask for clarification about the situation, many members of marginalized groups report becoming exhausted due to constant pressure to explain why microaggressions are hurtful. You can always talk about the situation with trusted friends, or seek voices from these groups online (such as from blog posts and articles) to learn more about the issue.
-* Be a good listener. This is an opportunity to learn about someone else’s perspective and become a better peer, ally, and future coworker. Listen carefully, regardless of the amount of information the other party freely gives.
-* Do your best to ensure it doesn’t happen again. Carefully and intentionally reflect upon what went wrong, and how you can prevent similar situations in the future.
+* Don't pressure for information beyond what the other person volunteers. It's not the obligation of this person (or other members of marginalized groups) to educate you, or explain the intricacies of the situation. While it's acceptable to ask for clarification about the situation, many members of marginalized groups report becoming exhausted due to constant pressure to explain why microaggressions are hurtful. You can always talk about the situation with trusted friends, or seek voices from these groups online (such as from blog posts and articles) to learn more about the issue.
+* Be a good listener. This is an opportunity to learn about someone else's perspective and become a better peer, ally, and future coworker. Listen carefully, regardless of the amount of information the other party freely gives.
+* Do your best to ensure it doesn't happen again. Carefully and intentionally reflect upon what went wrong, and how you can prevent similar situations in the future.
 * Follow up with Epicodus staff if you have remaining concerns or would like more guidance on preventing future microaggressions.
 
-### What Should I Do if I’m the Target of a Microaggression?
+### What Should I Do if I'm the Target of a Microaggression?
 
-When we're targets of microaggressions, we shouldn’t immediately assume the perpetrator has hurtful intentions. We are more likely to handle situations in a productive, non-confrontational way if we don't assume others' intentions are hostile. If someone stepped on your foot, that doesn’t mean they're on a mission to intentionally hurt peoples' feet, right? In most cases, it was probably an accident. That said, just like there's nothing wrong with telling somebody they stepped on your foot, there's also nothing wrong with telling somebody they hurt you with a microaggression.
+When we're targets of microaggressions, we shouldn't immediately assume the perpetrator has hurtful intentions. We are more likely to handle situations in a productive, non-confrontational way if we don't assume others' intentions are hostile. If someone stepped on your foot, that doesn't mean they're on a mission to intentionally hurt peoples' feet, right? In most cases, it was probably an accident. That said, just like there's nothing wrong with telling somebody they stepped on your foot, there's also nothing wrong with telling somebody they hurt you with a microaggression.
 
 Here are guidelines on handling microaggressions targeted at you and communities you belong to:
 
-* You are _never_ required to confront someone if you don't want to, or don't feel comfortable. Feel free to separate yourself from the situation. It’s okay to take time alone to process. It's also okay to talk to somebody a while after the incident.
+* You are _never_ required to confront someone if you don't want to, or don't feel comfortable. Feel free to separate yourself from the situation. It's okay to take time alone to process. It's also okay to talk to somebody a while after the incident.
 * Remember the difference between impact and intent. Your feelings are valid, regardless of the intent of the person committing the microaggression.
-* You may choose to tell someone they’ve committed a microaggression. If you wish, explain why the microaggression was hurtful. While it may be difficult, try to treat them as you would like someone to treat you, if you accidentally hurt their feelings.
+* You may choose to tell someone they've committed a microaggression. If you wish, explain why the microaggression was hurtful. While it may be difficult, try to treat them as you would like someone to treat you, if you accidentally hurt their feelings.
 * You may also choose to discuss the situation with Epicodus staff. We will provide support, preserve your privacy, and work with you to devise a follow-up plan.
 * Please let Epicodus know if you ever feel threatened, unsafe, or unwelcome at any time. We are here to advocate for you.
 * If you feel you can no longer pair with another student due to microaggressions, inform Epicodus staff so we may accommodate.
 
 ### What Should I Do if I Witness a Microaggression?
 
-* Don’t assume no one is hurt by a comment. Even if there are no clear targets, we all need to work together to make Epicodus a safe space.
+* Don't assume no one is hurt by a comment. Even if there are no clear targets, we all need to work together to make Epicodus a safe space.
 * If you feel comfortable doing so, say something to the perpetrator(s) of the microaggression. Again, remember that their intent may have been different from their impact.
 * If you're not a part of the group impacted by the microaggression, don't speak for members of that group, or make assumptions about their experience. Instead, focus on what _you_ experienced.
 * Listen and be supportive. This is an opportunity to learn about the experiences of others and to become a better peer and coworker.
