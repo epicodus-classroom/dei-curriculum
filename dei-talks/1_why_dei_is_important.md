@@ -1,6 +1,6 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On most Mondays, you will be expected to read a short lesson about that week's DEI topic. Then, on Tuesday, your instructor will lead a standup on that topic.
 
-## Why is Diversity, Equity, and Inclusion Important?
+## Why are Diversity, Equity, and Inclusion Important?
 
 We covered the basic definition of DEI in our [Introduction to DEI](link-needed) lesson. But why is DEI important?
 

@@ -8,7 +8,7 @@ When we are learning how to code and spending many hours every day problem-solvi
 
 This can be particularly problematic when it comes to inclusion. In order to work well with others, the questions are often more important than the answers.
 
-Here's an example. Let's say that two people are working on a coding problem. One person (Tim) is driving (using the keyboard) while the second person (John) thinks he has an answer. Which of the following might be a good approach?
+Here's an example. Let's say that two people are working on a coding problem. One person, Tim, is driving (using the keyboard while the other person observes) while the second person, John thinks he has an answer. Which of the following might be a good approach?
 
 A. John says "Let me try something" and starts typing without waiting for an answer.
 
@@ -16,11 +16,11 @@ B. John says "You should try this" and then tells Tim what to type.
 
 C. John asks "I have an idea. Can I run it by you?"
 
-It should be clear why option A and B are problematic. Tim is driving - and he may want an opportunity to try out a solution or solve the problem on her own - but John simply takes over without checking in first. There's a real risk that Tim will feel shut down. If Tim is a member of an underrepresented group that John is not a member of, then John is likely also committing a microaggression. He may come across as patronizing or bullying.
+It should be clear why option A and B are problematic. Tim is driving - and he may want an opportunity to try out a solution or solve the problem on her own - but John simply takes over without checking in first. There's a real risk that Tim will feel shut down. If Tim is a member of an underrepresented group, such as Latinx or trans people, that John is not a member of, then Tim may be left wondering if John disregarded Tim's knowledge because of his race or gender. John may come across as patronizing or bullying as a result while Tim might feel hurt or disengaged.
 
-Option C is different because John asks his pair a question. Ultimately, it's more important to be collaborative in this situation than it is to immediately have the answer. In a real-world workplace, having good working relationships and being collaborative isn't just inclusive - it will increase productivity and worker satisfaction.
+Option C is different because John asks his pair a question. Ultimately, it's more important to be collaborative in this situation than it is to immediately have the answer. In a real-world workplace, having good working relationships and being collaborative isn't just inclusive - it will increase productivity and keep you and your coworkers happy.
 
-On the other hand, John having all the answers right away may save a little bit of time - at least at first - but in the long term, if he continues engaging in this behavior he might be seen as a toxic employee - and other employees might become less collaborative and less likely to share their own solutions over time.
+On the other hand, John having all the answers right away may save a little bit of time - at least at first - but in the long term, if he continues engaging in this behavior other employees will become less collaborative and less likely to share their own solutions, and avoid working with him.
 
 Option C may seem like the obvious best solution to the scenario above. However, we do see students engaging in option A and B in the classroom. It's all too common to see students sharing answers even where they aren't wanted, which comes across as patronizing behavior. In the case of a man explaining something to a woman or non-binary person, it comes across as "man-splaining."
 
