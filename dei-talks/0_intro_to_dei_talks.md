@@ -1,6 +1,6 @@
 Epicodus is committed to increasing diversity in the tech industry. That means serving students from underrepresented communities and also doing everything we can to increase the representation of these communities in the tech community. This includes BIPOC (black, indigenous and people of color), women, LGBTQ, people with disabilities, and other marginalized populations.
  
-As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** topics most weeks. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) over the next twenty weeks of class. We'll also briefly cover these terms here:
+As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** topics that will accompany Tuesday morning standups on that topic. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) throughout the program. We'll also briefly cover these terms here:
  
 * **Diversity**: Traditionally, the tech industry has skewed heavily white and male. Bringing **diversity** to the tech industry means hiring and retaining people of color, women, LGBTQ, people with disabilities, and other marginalized populations. These groups also leave tech jobs at a much higher rate than white men, and diversity means addressing this higher attrition rate as well.
 
@@ -10,5 +10,5 @@ As part of our effort towards building a more diverse tech industry, our curricu
  
 If these definitions seem a bit vague right now, that's okay. We'll be covering them more in depth throughout the course.
  
-As part of your homework on most Mondays, there will be a short lesson on that week's DEI topic. Then, on Tuesday morning, as part of standup, your instructors will lead a talk on that topic.
+As part of your homework during weeks that have DEI curriculum, there will be a short lesson in the Monday homework on that DEI topic. Then, on Tuesday morning, as part of standup, your instructors will lead a talk on that topic.
 
