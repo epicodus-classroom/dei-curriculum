@@ -18,11 +18,9 @@ Unfortunately, this lack of equality and equity is systemic - it doesn't just af
 
 Why is the industry primarily white and male? There is no compelling evidence to show that white men have innately better ability to code and work in the tech industry than other groups. Rather, both white people and men have long had more **privilege** than other underrepresented groups in the tech industry - and this trend continues to this day. **Privilege** is an unearned advantage that a society gives to some but not all people. Because of systemic racism, sexism, and other societal issues, underrepresented groups are not given these same privileges.
 
-Anyone can have privilege. For instance, take a look at the chart below, which illustrates different kinds of privilege.
+Anyone can have privilege. For instance, take a look at the chart below from [Frame Shift Consulting's Ally Skills Workshop](https://frameshiftconsulting.com/ally-skills-workshop/), which illustrates different kinds of privilege.
 
 ![Chart shows examples of power and privilege.](https://www.dropbox.com/s/drxcizf28n1p3zf/image3.png?raw=1)
-
-Source: https://frameshiftconsulting.com/ally-skills-workshop/
 
 As we can see, there are many different kinds of privilege. In order to have a diverse and equitable tech industry, we need to neutralize this privilege and practice inclusion.
 
