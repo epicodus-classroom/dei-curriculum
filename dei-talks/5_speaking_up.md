@@ -13,9 +13,7 @@ When addressing a microaggression or other hurtful behavior, the following appro
   * "What you just said bothered me."
   * "That makes me uncomfortable."
 
-* **Engage with the other person.** You are under no obligation to engage with someone that behaves in a hurtful way, even if you believe that person was well-intended or didn't mean to be hurtful.
-
-However, you may find it helpful to engage with the other person and start a dialogue. Asking an open-ended question can help clarify what was said or done - and also lead to others examining their behaviors more closely. Here are some examples:
+* **Engage with the other person.** You are under no obligation to engage with someone that behaves in a hurtful way, even if you believe that person was well-intended or didn't mean to be hurtful. However, you may find it helpful to engage with the other person and start a dialogue. Asking an open-ended question can help clarify what was said or done - and also lead to others examining their behaviors more closely. Here are some examples:
 
   * "What did you mean by that?"
   * "Why do you feel that way?"
