@@ -16,7 +16,7 @@ B. John says "You should try this" and then tells Tim what to type.
 
 C. John asks "I have an idea. Can I run it by you?"
 
-It should be clear why option A and B are problematic. Tim is driving - and he may want an opportunity to try out a solution or solve the problem on her own - but John simply takes over without checking in first. There's a real risk that Tim will feel shut down. If Tim is a member of an underrepresented group, such as Latinx or trans people, that John is not a member of, then Tim may be left wondering if John disregarded Tim's knowledge because of his race or gender. John may come across as patronizing or bullying as a result while Tim might feel hurt or disengaged.
+It should be clear why option A and B are problematic. Tim is driving - and he may want an opportunity to try out a solution or solve the problem on his own - but John simply takes over without checking in first. There's a real risk that Tim will feel shut down. If Tim is a member of an underrepresented group, such as Latinx or trans people, that John is not a member of, then Tim may be left wondering if John disregarded Tim's knowledge because of his race or gender. John may come across as patronizing or bullying as a result while Tim might feel hurt or disengaged.
 
 Option C is different because John asks his pair a question. Ultimately, it's more important to be collaborative in this situation than it is to immediately have the answer. In a real-world workplace, having good working relationships and being collaborative isn't just inclusive - it will increase productivity and keep you and your coworkers happy.
 
