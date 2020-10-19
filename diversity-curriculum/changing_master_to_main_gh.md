@@ -1,4 +1,4 @@
-The tech industry (along with many other industries) has a long history of oppressive behavior towards minorities. Minorities are underrepresented, underpaid, and are less likely to hold leadership roles in the industry. This lack of diversity has been reflected in many other insidious ways as well, including in terminology that has traditionally been used in the industry.
+The tech industry (along with many other industries) has a long history of oppressive behavior towards minorities. Minorities are underrepresented, underpaid, and are less likely to hold leadership roles in the industry. This lack of diversity has been reflected in many other insidious ways as well, including in the terminology that has traditionally been used in the industry.
 
 A key example of this terminology is the use of _master_ and _slave_ to describe a process or thing that controls another process or thing. If you are interested in seeing some examples where this terminology is used, see the [Wikipedia entry on this topic](https://en.wikipedia.org/wiki/Master/slave_(technology)).
 
@@ -23,6 +23,14 @@ git branch -M main
 ```
 
 The `-M` flag tells GitHub that we want to change the default branch name to `main`. We should run this command after our first commit.
+
+We can also update the default so that future projects use `main` instead of `master`:
+
+```
+$ git config --global init.defaultBranch main
+```
+
+For this change to kick in, it is necessary to restart the terminal.
 
 At this point, we recommend that all students uses `main` as the name of the default branch in GitHub. We strongly support this change - and it's now the default in GitHub anyway.
 
