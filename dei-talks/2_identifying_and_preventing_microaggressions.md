@@ -15,7 +15,7 @@ David Wang Sue, Professor of Psychology and Education at Columbia University, de
 But what do these interactions look like? Here are several real world examples of microaggressions, including some we've assisted students in addressing at Epicodus. (Note that the "hidden messages" aren't necessarily the intent of the person committing the microaggression, but how the message could be perceived by members of marginalized groups.)
 
 * A male student explains a coding concept to a woman who hasn't asked for an explanation. (Hidden message: _"Women aren't as good at coding as men."_)
-* A transgender student tells co-students their preferred pronouns, but some students make minimal effort to use them, or ignore the request. (Hidden message: _"Your identity doesn't matter unless it fits into my predefined notions."_)
+* A transgender student tells co-students their pronouns, but some students make minimal effort to use them, or ignore the request. (Hidden message: _"Your identity doesn't matter unless it fits into my predefined notions."_)
 * A younger student assists an older student with a piece of technology without being asked. (Hidden message: _"Older students are less skilled at technology."_)
 * A white student asks a student of color "Where are you _originally_ from?" (Hidden message: _"You're a perpetual outsider in this classroom, city, country, etc."_)
 * An able-bodied student asks a person with a disability about her mobility device. (Hidden message: _"You are different and less capable."_)
