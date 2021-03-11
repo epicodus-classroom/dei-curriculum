@@ -13,3 +13,15 @@ If these definitions seem a bit vague right now, that's okay. We'll be covering 
 As part of your homework during weeks that have DEI curriculum, there will be a short lesson in the Monday homework on that DEI topic. Then, on Tuesday morning, as part of standup, your instructors will lead a talk on that topic.
 
 Throughout the first third of the program, we'll have one to two DEI lessons per week as well as weekly DEI discussions in standup. By focusing on DEI early in the program, our goal is to set the tone from day one - and throughout the program - that our Epicodus community prioritizes diversity, equity, and inclusion. Unfortunately, we have seen many situations where students from diverse backgrounds are marginalized, whether that's at Epicodus, in the tech industry, or elsewhere. By actively learning about DEI concepts, we can better work together to include students from all backgrounds. Students sometimes ask why we have DEI standups but not code walkthroughs doing standup. Well, we spend all day coding and collaborating with our peers and instructors on coding problems. Having regular DEI standups gives us an opportunity to shift the focus away from coding and onto working together on important DEI issues. Ultimately, our highest priority, even beyond teaching students to code, is to create a safe space for our students and be good stewards in the tech industry.
+
+Unfortunately, sometimes students question the value of DEI curriculum because they feel like it doesn't directly relate to them. However, remember that we can always do more to be inclusive - and even if a student feels included, that doesn't mean that other students do. We've also received a great deal of feedback from students that found the DEI curriculum beneficial. Here is some of the feedback we've received in the past:
+
+> "The DEI talks are so important! Thank you for doing these."
+
+> "I really appreciate the DEI talks."
+
+> "I appreciate the instructors taking the time to appreciate diversity."
+
+> "Thank you so much for all you do in the classroom to make it feel inclusive."
+
+> "I find it very reassuring that your aim is to make your space inclusive and welcoming."
