@@ -1,45 +1,57 @@
-This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On most Mondays, you will be expected to read a short lesson about that week's DEI topic. Then, on Tuesday, your instructor will lead a standup on that topic.
+This lesson is part of our regular Diversity, Equity, and Inclusion (DEI) curriculum. On most Mondays, you will be expected to read a short lesson about that week's DEI topic. Then, on Tuesday, your instructor will lead a standup on that topic.
 
 This week, we will cover microaggressions: what they are, how they impact people, and how to recognize and prevent them.
 
+## Being a Minority
+
+Consider this excerpt from a [blog post by Jules Walter, a Black software engineer](https://medium.com/tech-diversity-files/diversity-in-tech-the-unspoken-empathy-gap-5b806c83d717):
+
+> Have you ever spent time in a place where you’re in the minority, even briefly? At an event, for example, or in another country? Think about how you felt being the only man at an event attended primarily by women, or the only white person in an entire train station in a predominantly African-American neighborhood. If you have never experienced this, try it. The feeling of being an outsider, of not belonging, is what many minorities experience in the workplace on a regular basis.
+
+> Until recently in my career, I was always the only black person on my team. Coworkers have generally been nice to me, but it’s hard to ignore that I’m noticeably different when no one else at work looks like I do. I’ve learned to ignore this feeling of being an outsider, but it always comes back eventually, whether it’s during meetings with executive leadership, while walking into a company’s office for an onsite interview, or in other work-related situations.
+
+In a [recent survey](https://www.cnn.com/2018/12/04/success/only-ones-diversity), women told how similar "feeling[s] of being an outsider" affected them:
+
+> Women who are onlies [the only woman in a group] report feeling “on guard,” “under pressure” and “‘closely watched.”
+
+Read one last story now, this time [from Lindsay Grizzard, a woman on an otherwise all-male software development team](https://www.fastcompany.com/40512537/i-was-the-only-woman-in-my-company-for-two-long-years):
+
+> This is how it is working as a woman on an all-male team: You can never put your finger on exactly whether it’s the gender thing or whether it’s just a personal thing or whatever. [For example,] my tech lead would only ever Slack me. It was really hard to get him to come sit down next to me and help me, which is a really common thing to do in coding. But he would do that with everyone else. At first I didn’t really notice it, but after six months, it was like every time, even if I would ask him to come pair-program with me for a little while, it would be like pulling teeth. 
+
+When we're already tense from sticking out, the uncertainty of whether and why we're being treated differently can eat away at us and make it difficult to participate. And others' discomfort with our "otherness" can often lead them to treat us differently.
+
 ## Understanding Microaggressions
 
-Epicodus isn't just a code school. It's a community of peers, friends, allies, future coworkers and connections. To this end, we ask students to actively participate in making Epicodus a welcoming and safe community for everyone regardless of race, gender, disability, sexual orientation, age, religion, or other status. One way we do this is by consciously avoiding a type of hurtful interaction called a microaggression.
-
-A **microaggression** is a comment or action that (often unintentionally) implies prejudice toward marginalized groups or individuals. In this lesson we'll explore what these interactions look like, what to do when they happen, and how to avoid them entirely. We'll also explore how consciously avoiding microaggressive behavior fits into the larger umbrella of **allyship**.
-
-David Wang Sue, Professor of Psychology and Education at Columbia University, defines microaggressions as:
+The way that Lindsay Grizzard's boss didn't want to pair program with her is an example of a **microaggression**. Derald Wing Sue, Professor of Psychology and Education at Columbia University, defines microaggressions as:
 
 > ...everyday verbal, nonverbal, and environmental slights, often unintentional, which communicate negative messages to people in marginalized groups. These messages communicate they are lesser, suggest they do not belong with the majority group, or relegate them to inferior status and treatment.
 
-But what do these interactions look like? Here are several real world examples of microaggressions, including some we've assisted students in addressing at Epicodus. (Note that the "hidden messages" aren't necessarily the intent of the person committing the microaggression, but how the message could be perceived by members of marginalized groups.)
+In Lindsay's example, when her boss would pair with everybody else but her, the message she received was probably that her boss wasn't comfortable with her, or didn't think working with her was worth her time.
+
+Here are several real-world examples of microaggressions, including some we've assisted students in addressing at Epicodus. The "hidden messages" might or might not be the intent of the person committing the microaggression, but either way, their effect on members of marginalized groups is the same.
 
 * A male student explains a coding concept to a woman who hasn't asked for an explanation. (Hidden message: _"Women aren't as good at coding as men."_)
 * A transgender student tells co-students their pronouns, but some students make minimal effort to use them, or ignore the request. (Hidden message: _"Your identity doesn't matter unless it fits into my predefined notions."_)
-* A younger student assists an older student with a piece of technology without being asked. (Hidden message: _"Older students are less skilled at technology."_)
+* A younger student assists an older student with a piece of technology without being asked. (Hidden message: _"Older students are less skilled at using technology."_)
 * A white student asks a student of color "Where are you _originally_ from?" (Hidden message: _"You're a perpetual outsider in this classroom, city, country, etc."_)
 * An able-bodied student asks a person with a disability about her mobility device. (Hidden message: _"You are different and less capable."_)
 * For team week, three male students write a project idea on the board that references pornography. (Hidden messages: _"Referencing sexual content in the workplace is normal, and anyone that feels uncomfortable should just get used to the 'boy's club' of tech."_)
 * An older student refers to their younger co-students as 'kids'. (Hidden message: _"Younger students are lacking in comparison to their older counterparts.",_)
-* A student brings in snacks to share with their class. Another student politely declines the food, mentioning they're fasting in recognition of a religious holiday. The offering student exclaims _"That's sooooo crazy! I could never fast like that! Insane! How do you do it?!"_ (Hidden message: _"Your religious practices and identity are abnormal."_)  
-
-Professor Sue also offers further examples of microaggressions in his two articles, [_Racial Microaggressions in Everyday Life_](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201010/racial-microaggressions-in-everyday-life), and [_Microaggressions: More than Just Race_](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201011/microaggressions-more-just-race). If you feel that more examples—especially those from outside the classroom environment—would solidify your understanding of this topic, we recommend reviewing these resources.
+* A student brings in snacks to share with their class. Another student politely declines the food, mentioning they're fasting in recognition of a religious holiday. The offering student exclaims _"That's sooooo crazy! I could never fast like that! Insane! How do you do it?!"_ (Hidden message: _"Your religious practices and identity are abnormal."_)
 
 ## The Impact of Microaggressions
 
-The term microaggression combines the words "micro" and "aggression," but in some ways the term is misleading because the impact of microaggressions long-term is very significant. According to Dr. David Wang Sue:
+The term microaggression combines the words "micro" and "aggression," but in some ways the term is misleading because the impact of microaggressions long-term is very significant. According to Dr. Sue:
 
 > (Microaggressions) have been found to: (a) assail the mental health of recipients, (b) create a hostile and invalidating work or campus climate, (c) perpetuate stereotype threat, (d) create physical health problems, (e) saturate the broader society with cues that signal devaluation of social group identities, (f) lower work productivity and problem solving abilities, and (g) be partially responsible for creating inequities in education, employment and health care.
 
-These issues arise because microaggressions themselves can be subtle even if their impact isn't. The following quote from Dr. Sue illustrates this. While he speaks specifically of their impact on people of color in this quotation, these issues also apply for women and people from other disadvantaged groups.
+These issues arise because microaggressions themselves can be subtle even if their impact isn't. The following quote from Dr. Sue illustrates this. While he speaks specifically of their impact on people of color here, these issues also apply to women and people from other minority groups.
 
-> Microaggressions hold their power because they are invisible, and therefore they don't allow whites to see that their actions and attitudes may be discriminatory. Therein lays the dilemma. The person of color is left to question what actually happened. The result is confusion, anger and an overall draining of energy.
+> Microaggressions hold their power because they are invisible, and therefore they don't allow whites to see that their actions and attitudes may be discriminatory. Therein lies the dilemma. The person of color is left to question what actually happened. The result is confusion, anger and an overall draining of energy.
 
-For these reasons, it's very important to take the impact of microaggressions seriously and take active steps to prevent them from occurring.
+## Avoiding Microaggressions
 
-## Preventing Microaggressions
-
-Now that we have a better understanding what microaggressions are, let's discuss how to prevent them. Here are important guidelines to follow:
+If you rarely have that "sticking out" feeling, we really encourage you to start regularly thinking about how your actions impact people in minority groups. (If this feels like a lot to ask, think back to Jules Walter's suggestion to remember an experience where you were a minority and the emotional energy that state took; surely you can spare some of your own brain power to help others who are in this situation!) Here are a few rules of thumb to help you help others feel included:
 
 * Don't call attention to a person's status as a member of a minority community, even if you don't mean it "negatively".
 * Don't make jokes about marginalized groups or communities.
@@ -51,19 +63,21 @@ Now that we have a better understanding what microaggressions are, let's discuss
 
 ## Dealing with Microaggressions
 
-But what should we do if we are involved in a microaggression, whether as the target, a witness, or the person committing it? Let's outline best practices and guidelines on handling microaggressions from each of these three roles:
+But what should we do if we are involved in a microaggression, whether as the target, a witness, or the person committing it? Here are some tips on handling microaggressions from each of these three roles:
 
 ### What Should I Do if I've Committed a Microaggression?
 
-If you stepped on someone's foot, you'd apologize, right? Even if it was completely unintentional, you still stepped on them. And that can hurt! Well, the same goes for microaggressions; while their damaging "hidden messages" aren't always intended, they still hurt. So they deserve acknowledgement, an apology, and reflection to prevent them from occurring again. Here are steps to follow when you commit a microaggression:
+If you stepped on someone's foot, you'd apologize, right? Even if it was completely unintentional, you still stepped on them. And that can hurt! Well, the same goes for microaggressions; while their damaging "hidden messages" aren't always intended, they still hurt. So they deserve acknowledgement, an apology, and reflection to prevent them from occurring again. Here are some things you can do when you commit a microaggression:
 
 * Be proactive. If you realize you might have said something hurtful, call yourself out. Don't wait for someone to confront you!
 * Acknowledge the impact. While it's okay to clarify your intent (_“I didn't mean to hurt your feelings”_), remember the impact your actions have on others is _not_ dependent upon your intent, and is equally valid.
 * Apologize. Even if you didn't intend harm, the impact can be hurtful. The target's feelings are 100% valid.
-* Don't pressure for information beyond what the other person volunteers. It's not the obligation of this person (or other members of marginalized groups) to educate you, or explain the intricacies of the situation. While it's acceptable to ask for clarification about the situation, many members of marginalized groups report becoming exhausted due to constant pressure to explain why microaggressions are hurtful. You can always talk about the situation with trusted friends, or seek voices from these groups online (such as from blog posts and articles) to learn more about the issue.
+* Don't push for information beyond what the other person volunteers. It's not the obligation of this person (or other members of marginalized groups) to educate you, or explain the intricacies of the situation. While it's acceptable to ask for clarification about the situation, many members of marginalized groups report becoming exhausted due to constant pressure to explain why microaggressions are hurtful. You can always talk about the situation with trusted friends, read books by and about the experiences of people from other social groups, or seek voices from these groups online (such as from blog posts and articles) to learn more about the issue.
 * Be a good listener. This is an opportunity to learn about someone else's perspective and become a better peer, ally, and future coworker. Listen carefully, regardless of the amount of information the other party freely gives.
-* Do your best to ensure it doesn't happen again. Carefully and intentionally reflect upon what went wrong, and how you can prevent similar situations in the future.
+
+* Consider your biases. No matter how hard we try, we all carry biases with us, and those biases are shaped by the world we live in. So if you do something that turns out to be a microaggression, take a moment to reflect on whether your actions might be the outcome of a bias, perhaps one you weren't fully aware you had, and think about how you can be better aware of that bias in the future.
 * Follow up with Epicodus staff if you have remaining concerns or would like more guidance on preventing future microaggressions.
+* Recognize that no matter how sorry you are or how unintentional it was, you are not the victim.
 
 ### What Should I Do if I'm the Target of a Microaggression?
 
@@ -73,9 +87,9 @@ Here are guidelines on handling microaggressions targeted at you and communities
 
 * You are _never_ required to confront someone if you don't want to, or don't feel comfortable. Feel free to separate yourself from the situation. It's okay to take time alone to process. It's also okay to talk to somebody a while after the incident.
 * Remember the difference between impact and intent. Your feelings are valid, regardless of the intent of the person committing the microaggression.
-* You may choose to tell someone they've committed a microaggression. If you wish, explain why the microaggression was hurtful. While it may be difficult, try to treat them as you would like someone to treat you, if you accidentally hurt their feelings.
+* You may choose to tell someone they've committed a microaggression. If you wish, explain why the microaggression was hurtful. While it may be difficult, try to treat them as you would like to be treated if you accidentally hurt someone else’s feelings.
 * You may also choose to discuss the situation with Epicodus staff. We will provide support, preserve your privacy, and work with you to devise a follow-up plan.
-* Please let Epicodus know if you ever feel threatened, unsafe, or unwelcome at any time. We are here to advocate for you.
+* Please let Epicodus staff know if you ever feel threatened, unsafe, or unwelcome at any time. We are here to advocate for you.
 * If you feel you can no longer pair with another student due to microaggressions, inform Epicodus staff so we may accommodate.
 
 ### What Should I Do if I Witness a Microaggression?
@@ -88,7 +102,7 @@ Here are guidelines on handling microaggressions targeted at you and communities
 
 ### Code of Conduct Violations
 
-To create a safe and welcoming learning environment, it's important that all students treat each other, and staff, with respect, kindness, and empathy. This includes respecting and welcoming differing races, genders, ability levels, sexual orientations, ages, religions, and other traits and statuses.
+To create a safe and welcoming learning environment, it's important that all students treat each other, and staff, with respect, kindness, and empathy. This includes respecting and welcoming all races, genders, ability levels, sexual orientations, ages, religions, and other traits and statuses.
 
 Students that repeatedly target others with microaggressions, and/or display no improvement in this behavior after staff intervention are in violation of our Code of Conduct (in our [Student Handbook](https://www.epicodus.com/student-handbook/)) and will be asked to leave.
 
@@ -100,7 +114,7 @@ On the other hand, we urge you to continue talking with your friends, classmates
 
 ### Being An Ally
 
-We encourage students to become allies. An ally is a person that actively works to improve conditions for people from disadvantaged groups. Working towards preventing and calling out microaggressions is a good start. However, there are many other ways we can be allies as well.
+We encourage students to become allies. An ally is a person who actively works to improve conditions for people from groups with less power. Working towards preventing and calling out microaggressions is a good start. However, there are many other ways we can be allies as well.
 
 We recommend checking out the following resources if you are interested in becoming an ally:
 
@@ -111,6 +125,8 @@ We recommend checking out the following resources if you are interested in becom
 
 ## Further Resources
 
+*  [_Racial Microaggressions in Everyday Life_](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201010/racial-microaggressions-in-everyday-life)
+* [_Microaggressions: More than Just Race_](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201011/microaggressions-more-just-race)
 * [How to Be a Better Developer](http://www.pdxwit.org/blog/2018/5/29/how-to-be-a-better-developer-the-human-side-of-things): Discusses being a better developer, ally, employee and coworker.
 * [Speak Up at School: How to Respond to Everyday Prejudice, Bias and Stereotypes](https://www.tolerance.org/sites/default/files/2019-04/TT-Speak-Up-Guide.pdf): Tools for confronting bias.
 * [awesome-diversity](https://github.com/folkswhocode/awesome-diversity): A comprehensive resource on the advantages of diversity in technology.
