@@ -27,9 +27,3 @@ According to [Maxine Williams, the Global Chief Diversity Officer at Facebook](h
 > Every Monday, when we get a new class of hires, I say to them, "I don't want you to come in here and think that you need to use 'blind' as a suffix. That you need to describe people as 'just my colleagues' or say things like, 'I don't see race. I don't see gender. I'm colorblind. Sexual-orientation blind.' In doing so you're neutralizing a part of a person that is an asset. I want you to see those characteristics and see them as adding value."
 
 Regardless of whether you're in an under-represented or a majority group (or in both!), the "soft skills" you'll learn in the DEI curriculum are valued as much as coding skills in the industry, and your ability to develop these skills and work with people of all backgrounds will make you a better employee and more employable.
-
-### Recommended Reading
-
-* [Being Black In The Tech Industry](https://www.npr.org/2016/02/28/468483901/being-black-in-the-tech-industry)
-* [5 Common Feelings Being a Woman of Color in Tech](https://code.likeagirl.io/5-common-feelings-being-a-woman-of-color-in-tech-d8e9391b5d48)
-* [The Black Experience: What Being Black in Tech Really Feels Like](https://blog.usejournal.com/the-black-experience-what-being-black-in-tech-really-feels-like-e3574ba28280)
