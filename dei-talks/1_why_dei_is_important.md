@@ -30,6 +30,6 @@ Regardless of whether you're in an under-represented or a majority group (or in 
 
 ### Recommended Reading
 
-[Being Black In The Tech Industry](https://www.npr.org/2016/02/28/468483901/being-black-in-the-tech-industry)
-[5 Common Feelings Being a Woman of Color in Tech](https://code.likeagirl.io/5-common-feelings-being-a-woman-of-color-in-tech-d8e9391b5d48)
-[The Black Experience: What Being Black in Tech Really Feels Like](https://blog.usejournal.com/the-black-experience-what-being-black-in-tech-really-feels-like-e3574ba28280)
+* [Being Black In The Tech Industry](https://www.npr.org/2016/02/28/468483901/being-black-in-the-tech-industry)
+* [5 Common Feelings Being a Woman of Color in Tech](https://code.likeagirl.io/5-common-feelings-being-a-woman-of-color-in-tech-d8e9391b5d48)
+* [The Black Experience: What Being Black in Tech Really Feels Like](https://blog.usejournal.com/the-black-experience-what-being-black-in-tech-really-feels-like-e3574ba28280)
