@@ -1,4 +1,4 @@
-This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On most Mondays, you will be expected to read a short lesson about that week's DEI topic. Then, on Tuesday, your instructor will lead a standup on that topic.
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On some weeks, you will be expected to read a short lesson about that course section's DEI topic. Then, in the following class session, your instructor will lead a standup on that topic.
 
 This week we will discuss two of the most powerful tools at our disposal: **asking** and **listening**. These are essential soft skills that will help us be more inclusive - and are also instrumental to getting jobs.
 
