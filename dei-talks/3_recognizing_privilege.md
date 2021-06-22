@@ -1,6 +1,6 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On some weeks, you will be expected to read a short lesson about that course section's DEI topic. Then, in the following class session, your instructor will lead a standup on that topic.
 
-Last week, we discussed the benefits (including the economic benefits) of diversity, equity, and inclusion in tech. This week, we'll discuss why DEI efforts are so important in the tech industry - and elsewhere.
+This week, we'll discuss why DEI efforts are so important in the tech industry - and elsewhere.
 
 ## Equity Versus Equality
 
