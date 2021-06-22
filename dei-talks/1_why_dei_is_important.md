@@ -1,4 +1,4 @@
-This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On some weeks, you will be expected to read a short lesson about that course section's DEI topic. Then, in the following class session, your instructor will lead a standup on that topic.
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On some weeks, you will be expected to read a short lesson about that course section's DEI topic. Then, in the next class session, your instructor will lead a standup on that topic.
 
 ## Why are Diversity, Equity, and Inclusion Important?
 
