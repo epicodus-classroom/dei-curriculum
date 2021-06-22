@@ -1,3 +1,9 @@
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On some weeks, you will be expected to read a short lesson about that course section's DEI topic. Then, in the following class session, your instructor will lead a standup on that topic.
+
+This week we will discuss speaking up against hurtful language or behavior. 
+
+## Speaking Up
+
 In an ideal world, we wouldn't have to worry about microaggressions or other hurtful behavior. Unfortunately, we don't live in that ideal world. When we are on the receiving end of - or see someone else on the receiving end of - a microaggression or other hurtful behavior, we need to have tools in place to speak up.
  
 If we wait until the microaggression occurs, we might find ourselves saying something hurtful in return - or pretending it didn't happen even though we might later wish that we'd addressed it in the moment. By thinking about how we'll address these situations ahead of time, we can be better equipped to deal with them when they do happen.
