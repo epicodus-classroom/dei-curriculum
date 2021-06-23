@@ -2,7 +2,9 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. 
 
 This week, we will cover microaggressions: what they are, how they impact people, and how to recognize and prevent them.
 
-## Being a Minority
+## Marginalization
+
+When you are marginalized, you are treated as an outsider or you are in the minority in a given situation. Please consider the following experiences from individuals who have experienced marginalization.
 
 Consider this excerpt from a [blog post by Jules Walter, a Black software engineer](https://medium.com/tech-diversity-files/diversity-in-tech-the-unspoken-empathy-gap-5b806c83d717):
 
@@ -79,7 +81,9 @@ If you stepped on someone's foot, you'd apologize, right? Even if it was complet
 * Follow up with Epicodus staff if you have remaining concerns or would like more guidance on preventing future microaggressions.
 * Recognize that no matter how sorry you are or how unintentional it was, you are not the victim.
 
-### What Should I Do if I'm the Target of a Microaggression?
+### What Can I Do if I'm the Target of a Microaggression?
+
+There are many ways to respond when you are the target a microaggression. In this section, we are outlining a few ideas for folks who may not have context for microaggressions or experience with how to handle them. 
 
 When we're targets of microaggressions, we shouldn't immediately assume the perpetrator has hurtful intentions. We are more likely to handle situations in a productive, non-confrontational way if we don't assume others' intentions are hostile. If someone stepped on your foot, that doesn't mean they're on a mission to intentionally hurt peoples' feet, right? In most cases, it was probably an accident. That said, just like there's nothing wrong with telling somebody they stepped on your foot, there's also nothing wrong with telling somebody they hurt you with a microaggression.
 
