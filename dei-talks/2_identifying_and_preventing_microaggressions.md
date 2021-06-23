@@ -79,7 +79,7 @@ If you stepped on someone's foot, you'd apologize, right? Even if it was complet
 * Follow up with Epicodus staff if you have remaining concerns or would like more guidance on preventing future microaggressions.
 * Recognize that no matter how sorry you are or how unintentional it was, you are not the victim.
 
-### What Should I Do if I'm the Target of a Microaggression?
+### What Can I Do if I'm the Target of a Microaggression?
 
 When we're targets of microaggressions, we shouldn't immediately assume the perpetrator has hurtful intentions. We are more likely to handle situations in a productive, non-confrontational way if we don't assume others' intentions are hostile. If someone stepped on your foot, that doesn't mean they're on a mission to intentionally hurt peoples' feet, right? In most cases, it was probably an accident. That said, just like there's nothing wrong with telling somebody they stepped on your foot, there's also nothing wrong with telling somebody they hurt you with a microaggression.
 
