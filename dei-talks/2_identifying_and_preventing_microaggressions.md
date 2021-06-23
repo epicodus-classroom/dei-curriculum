@@ -2,7 +2,9 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. 
 
 This week, we will cover microaggressions: what they are, how they impact people, and how to recognize and prevent them.
 
-## Being a Minority
+## Marginalization
+
+When you are marginalized, you are treated as an outsider or you are in the minority in a given situation. Please consider the following experiences from individuals who have experienced marginalization.
 
 Consider this excerpt from a [blog post by Jules Walter, a Black software engineer](https://medium.com/tech-diversity-files/diversity-in-tech-the-unspoken-empathy-gap-5b806c83d717):
 
