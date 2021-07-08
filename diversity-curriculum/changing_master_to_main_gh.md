@@ -56,3 +56,6 @@ Hopefully by the end of 2020 these changes will be easier to make. And as far as
 * **Some companies don't care or don't want to change the way they do things.** Old habits die hard. Some won't see the importance of making this change. They might be resistant to making this change. If you end up working for a company that takes this perspective, we recommend finding ways to constructively encourage the company to make the change.
  
 If you'd like to learn more about the process of renaming repos so they use _main_ as a default, see the [GitHub documentation on renaming](https://github.com/github/renaming).
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

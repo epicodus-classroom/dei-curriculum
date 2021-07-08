@@ -138,3 +138,6 @@ We recommend checking out the following resources if you are interested in becom
 * [Out in Tech](https://www.geekwire.com/2015/out-in-tech-what-its-like-to-be-lgbt-in-an-industry-struggling-with-diversity/): An article from Geekwire on the challenges of being LGBTQ in the tech industry.
 * [Interview with Julie Ann Horvath](https://modelviewculture.com/pieces/interview-with-julie-ann-horvath): An interview with Julie Ann Horvath, a whistleblower against sexist behavior at Github.
 * [Susceptible to Imposter Syndrome](http://peopleofcolorintech.com/engineers/susceptible-to-imposter-syndrome/): A developer and woman of color talks about her experience with imposter syndrome.
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

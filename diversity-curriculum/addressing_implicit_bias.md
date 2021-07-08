@@ -27,3 +27,6 @@ How can we face our implicit biases if we don't even know we have them? There ar
 * We can be aware of how prevalent the stereotypes around tech and programming are. Studies show that [children as young as 6](http://blogs.edweek.org/edweek/curriculum/2017/05/gender_stereotypes_coding_ability_start_young_1st_grade.html) have internalized the belief that boys are better at programming and robotics, and that this affects girls' interest in learning about the field.
 
 * We can question our assumptions. When we notice ourselves making judgements about someone being a good coder or not, we can ask ourselves what specifically led to that belief. Have we actually paired with that person and seen their code often? Were there specific actions or statements that have made us believe they're bad at coding (or vice versa)? And if the same behavior was done by someone of a different age, gender, or race, would we have interpreted it in the same way?
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

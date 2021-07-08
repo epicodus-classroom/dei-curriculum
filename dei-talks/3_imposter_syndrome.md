@@ -52,3 +52,6 @@ Here are some strategies for dealing with imposter syndrome. We are including st
 * **Do not offer advice or solutions unless they are asked for.** Constructive criticism and feedback can be useful - but it will rarely feel constructive unless it's requested.
  
 * **If someone needs support, be willing to listen.** Even if you're not experiencing imposter syndrome yourself, you can still listen and be supportive. And if you are experiencing imposter syndrome, this can be an opportunity to share your experiences together.
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

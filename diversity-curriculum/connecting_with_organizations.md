@@ -30,3 +30,6 @@ Such organizations hosts meetups and offer programs to serve underrepresented gr
 **Ada Developers Academy** [Website](https://adadevelopersacademy.org/)
 
 - Ada Developers Academy is a non-profit, tuition-free coding school for women and gender diverse adults. They focus on serving low income people, underrepresented minorities, and members of the LGBTQIA+ community.
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

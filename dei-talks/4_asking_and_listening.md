@@ -68,3 +68,6 @@ Here are some issues that can come up if we don't ask and listen.
 It should be clear that poor listening skills can lead to a wide variety of problems, microaggressions, and general miscommunication issues.
 
 We can solve most problems by asking questions and being good listeners.
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

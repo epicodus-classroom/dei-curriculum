@@ -25,3 +25,6 @@ Unfortunately, sometimes students question the value of DEI curriculum because t
 > "Thank you so much for all you do in the classroom to make it feel inclusive."
 
 > "I find it very reassuring that your aim is to make your space inclusive and welcoming."
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

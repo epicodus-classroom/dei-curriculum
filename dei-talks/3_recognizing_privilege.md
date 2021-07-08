@@ -25,3 +25,6 @@ Anyone can have privilege. For instance, take a look at the chart below from [Fr
 As we can see, there are many different kinds of privilege. In order to have a diverse and equitable tech industry, we need to neutralize this privilege and practice inclusion.
 
 Privilege can be a hot button topic for many, often because it's common to have some privileges but not others. Also, people are often afraid of losing the privileges they already have. However, equity is not about taking privileges away from people that already have them. Instead, it's about giving those privileges to everyone. In the case of the tech industry, that means providing opportunity to underrepresented groups.
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

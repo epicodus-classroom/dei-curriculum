@@ -63,3 +63,6 @@ Also, the following articles from Harvard Business Review provide excellent reso
 * [How to Call Out Racial Injustice at Work](https://hbr.org/2020/07/how-to-call-out-racial-injustice-at-work)
  
 * [How to Respond to an Offensive Comment at Work](https://hbr.org/2017/02/how-to-respond-to-an-offensive-comment-at-work)
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

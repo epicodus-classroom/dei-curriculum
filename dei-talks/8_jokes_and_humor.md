@@ -20,3 +20,6 @@ Here are some key tips to consider when it comes to humor at Epicodus, in the wo
 * **Don't tell offensive or otherwise hurtful jokes.** If you think it's even possible that a joke could be offensive, steer clear.
 * **Don't tell jokes about members of underrepresented groups.** This is an extension of the above point but it's important to emphasize. Underrepresented groups include but are not limited to women, people of color, and people with disabilities - as well as many other groups.
 * **If you accidentally offend someone, apologize.** There's no need to get worked up - just apologize if your joke landed the wrong way.
+
+### Do you have feedback?
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
