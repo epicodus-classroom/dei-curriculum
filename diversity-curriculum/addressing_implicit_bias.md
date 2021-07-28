@@ -1,3 +1,5 @@
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
+
 In Epicodus' code of conduct, we emphasize the importance of being kind to others, respecting our differences, and assuming that other students have good intentions. By consciously making a choice to do these things, we can be better pair programmers and a positive part of the Epicodus community even as we strengthen connections and improve the social skills that are instrumental to getting a good job.
 
 However, it's also important to be aware of our **implicit biases** as well. According to the [Perception Institute](https://perception.org/research/implicit-bias/):

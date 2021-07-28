@@ -1,3 +1,5 @@
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
+
 Epicodus as an organization believes strongly in promoting diversity in the tech field. According to the [Diversity in High Tech](https://www.eeoc.gov/eeoc/statistics/reports/hightech/upload/diversity-in-high-tech-report.pdf) report by the U.S. Equal Employment Opportunity Commission: many technical roles are currently held by white men while other groups such as women and people of color are underrepresented.
 
 It wasn't always this way. In fact, before the advent of personal computers, computer programming jobs had a much more even gender balance. To find out more, check out this fascinating article [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html).

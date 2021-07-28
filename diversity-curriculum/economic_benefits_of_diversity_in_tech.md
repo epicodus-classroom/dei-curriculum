@@ -1,3 +1,5 @@
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
+
 At Epicodus, we believe promoting diversity in the tech field is the right thing to do, because people should have access to tech jobs regardless of their background. But having a diverse workforce isn't just good for underrepresented groups: it also positively impacts a company's bottom line. 
 
 This [article from Forbes](https://www.forbes.com/sites/forbestechcouncil/2018/07/12/12-ways-diversity-makes-a-difference-in-tech/#67bf08812bc6) gives a dozen reasons why diversity is important in the tech field. The Forbes Technology Council, a group of executives, CTOs, and CIOs, provided this information. According to this group, a diverse workforce can:

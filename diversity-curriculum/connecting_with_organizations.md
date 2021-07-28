@@ -1,3 +1,4 @@
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
 
 If you feel discouraged about your prospects of entering tech as a member of an underrepresented group - there are many organizations out there working hard to promote inclusion in the tech industry.
 

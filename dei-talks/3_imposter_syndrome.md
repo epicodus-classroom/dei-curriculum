@@ -1,3 +1,5 @@
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
+
 **Imposter syndrome** is very common in both the tech industry and at Epicodus. In this lesson, we'll define imposter syndrome and discuss why it's a big problem in the tech industry.
  
 ## What is Imposter Syndrome?

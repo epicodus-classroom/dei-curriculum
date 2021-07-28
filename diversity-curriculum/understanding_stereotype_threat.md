@@ -1,3 +1,5 @@
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
+
 In a previous lesson, we discussed **implicit bias** and how it can be harmful to people in underrepresented communities. In this lesson, we'll talk about another key concept that can contribute to imposter syndrome and workplace performance: **stereotype threat**.
 
 **Stereotype threat** occurs when people from a group that faces stereotypes are put into a situation where they are pressured to disprove that stereotype. Unfortunately, that pressure often leads to worse performance, which can potentially perpetuate the stereotype further.

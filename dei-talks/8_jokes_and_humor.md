@@ -1,3 +1,5 @@
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
+
 A good joke can make people laugh, alleviate stress, and foster a sense of community. We could go on and on about the benefits of laughing and humor - but that's not the purpose of this lesson.
  
 Jokes can be a double-edged sword. A joke can make others feel bad just as easily as it can make others feel good - especially if the joke is making fun of others or is otherwise offensive. Even though people sometimes laugh when they are uncomfortable, that doesn't mean they think a hurtful joke is funny.
