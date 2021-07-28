@@ -1,6 +1,4 @@
-This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On some weeks, you will be expected to read a short lesson about that course section's DEI topic. Then, in the next class session, your instructor will lead a standup on that topic.
-
-This week, we'll discuss why DEI efforts are so important in the tech industry - and elsewhere.
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week, we'll learn about why DEI efforts are so important in the tech industry - and elsewhere.
 
 ## Equity Versus Equality
 
