@@ -1,4 +1,4 @@
-This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. On some weeks, you will be expected to read a short lesson about that course section's DEI topic. Then, in the next class session, your instructor will lead a standup on that topic.
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. **An Epicodus staff member will be leading a discussion on this topic in the next class session during standup.** Please read through this lesson in preparation for the discussion. We encourage you to bring your questions, commentary, reflections, and any experiences that you wish to share with the group. 
 
 This week, we will cover microaggressions: what they are, how they impact people, and how to recognize and prevent them.
 
