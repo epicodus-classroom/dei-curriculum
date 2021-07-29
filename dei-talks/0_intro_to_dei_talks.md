@@ -1,6 +1,6 @@
 Epicodus is committed to increasing diversity in the tech industry. That means serving students from underrepresented communities and also doing everything we can to increase the representation of these communities in the tech community. This includes BIPOC (black, indigenous and people of color), women, LGBTQ, people with disabilities, and other marginalized populations.
  
-As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** topics that will be discussed at standups. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) throughout the program. We'll also briefly cover these terms here:
+As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** lessons and workshop. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) throughout the program. We'll also briefly cover these terms here:
  
 * **Diversity**: Traditionally, the tech industry has skewed heavily white and male. Bringing **diversity** to the tech industry means hiring and retaining people of color, women, LGBTQ, people with disabilities, and other marginalized populations. These groups also leave tech jobs at a much higher rate than white men, and diversity means addressing this higher attrition rate as well.
 
@@ -8,23 +8,41 @@ As part of our effort towards building a more diverse tech industry, our curricu
  
 * **Inclusion**: In order to diversify the tech industry, we need to be **inclusive**. While diversity refers to the traits and characteristics that make us different from one another, inclusion refers to the actions we take to make others feel welcome.
  
-If these definitions seem a bit vague right now, that's okay. We'll be covering them more in depth throughout the course.
+If these definitions seem a bit vague right now, that's okay. We'll be covering them more in depth in upcoming lessons.
+Throughout the program, you will be asked to read short lessons on various DEI topics as homework. Unfortunately, we have seen many situations where students from diverse backgrounds are marginalized, whether that's at Epicodus, in the tech industry, or elsewhere. By actively learning about DEI concepts, we can better work together to include students from all backgrounds. Take the time to read through each lesson. We are open to feedback, and we encourage discussion on any topic.
+
+We’ll also have dedicated time in class for one group discussion and four workshops. The first discussion will happen in the third week of class where we’ll be talking about microaggressions. To prepare for the discussion, you will read a lesson on microaggressions as homework. Then, in the 5th, 10th, and 15th week of the program, Epicodus leadership will conduct workshops with the entire student body that go into depth on a specific topic within diversity, equity, and inclusion.
  
-As part of your homework during weeks that have DEI curriculum, there will be a short lesson to read for homework on a DEI topic. Then, in the next standup, your instructors will lead a discussion on that topic. For full-time students, homework will be given on Monday night and the discussion will happen during Tuesday standup. For part-time students, homework will be given on Wednesday night and the discussion will happen the following Sunday during standup.
+Having periodic DEI discussions and workshops gives us an opportunity to shift the focus away from coding and onto working together on important DEI issues. We believe that no one person is an expert on all forms of marginalization, and that there’s a lot to gain in learning about DEI issues. Ultimately, our highest priority, even beyond teaching students to code, is to create a safe space for our students and be good stewards in the tech industry.
 
-Throughout the first third of the program, we'll have one to two DEI lessons per week as well as weekly DEI discussions in standup. By focusing on DEI early in the program, our goal is to set the tone from day one - and throughout the program - that our Epicodus community prioritizes diversity, equity, and inclusion. Unfortunately, we have seen many situations where students from diverse backgrounds are marginalized, whether that's at Epicodus, in the tech industry, or elsewhere. By actively learning about DEI concepts, we can better work together to include students from all backgrounds. Students sometimes ask why we have DEI standups but not code walkthroughs doing standup. Well, we spend all day coding and collaborating with our peers and instructors on coding problems. Having regular DEI standups gives us an opportunity to shift the focus away from coding and onto working together on important DEI issues. Ultimately, our highest priority, even beyond teaching students to code, is to create a safe space for our students and be good stewards in the tech industry.
+### [Community Ground Rules](#community-ground-rules)
 
-Unfortunately, sometimes students question the value of DEI curriculum because they feel like it doesn't directly relate to them. However, remember that we can always do more to be inclusive - and even if a student feels included, that doesn't mean that other students do. We've also received a great deal of feedback from students that found the DEI curriculum beneficial. Here is some of the feedback we've received in the past:
+To ensure a safe and productive space in our classroom, we’ve created a set of community ground rules adapted from [Discussion Ground Rules (Iowa State University Library)](https://instr.iastate.libguides.com/c.php?g=957020&p=6908208) and [Ground Rules and Tools: Facilitating Productive Discussions (UCAR)](https://www.ucar.edu/who-we-are/diversity-inclusion/community-resources/ground-rules-tools). We ask that you respect these ground rules in all interactions at Epicodus. Also, please read and review these ground rules prior to each DEI discussion and workshop to better be in the right frame of mind for the discussions. As needed, we will modify these rules as a group to meet the needs of the class.
 
-> "The DEI talks are so important! Thank you for doing these."
+“We” going forward refers to Epicodus staff and students. The DEI discussions and workshops at Epicodus are intended to be a place for discussion of ideas and for learning about differing viewpoints, not for debate or lecture. There are no experts in DEI and we are here to listen to each other’s viewpoints. Heading into each discussion, it is important to understand that everyone sees and experiences the world differently, and what seems “right” in your experience may not be so in someone else’s. Everyone is asked to consider different perspectives, for the purpose of sensitivity, learning, and growth. 
 
-> "I really appreciate the DEI talks."
+**Recognize:** We recognize that we must strive to overcome historical and divisive biases, such as racism and sexism, in our society.
 
-> "I appreciate the instructors taking the time to appreciate diversity."
+**Acknowledge:** We acknowledge that we are all systematically taught misinformation about our own group(s) and about members of other groups. This is true for everyone, regardless of our group(s).
 
-> "Thank you so much for all you do in the classroom to make it feel inclusive."
+**No Blame:** We agree not to blame ourselves or others for the misinformation we have learned, but to accept responsibility for not repeating misinformation after we have learned otherwise.
+ 
+**Trust:** Everyone has come to the table to learn, grow, and share. We acknowledge that we may be at different stages of learning on the content and discussion topics. We will trust that people will do the best they can. We all make mistakes and have bad days; when these occur, let's challenge and encourage each other to do better. 
 
-> "I find it very reassuring that your aim is to make your space inclusive and welcoming."
+**Respect:** We agree to treat other participants' reflections and questions with respect. We acknowledge once again that we may be at different stages of learning on the topic. However, this does not mean we should ignore problematic statements. **See the information below on calling in and calling out.** Both approaches are valid and can be done with care and respect, with the goal of helping each other learn.
 
-### Do you have feedback?
-We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
+*  [Calling In: A Quick Guide on When and How](https://everydayfeminism.com/2015/01/guide-to-calling-in/)
+*  [Video - Call people out on their words/actions, rather than their intent](https://www.youtube.com/watch?v=b0Ti-gkJiXc)
+*  [I was wrong and I am sorry (When you are called out or called in)](http://womeninastronomy.blogspot.com/2015/04/i-was-wrong-and-i-am-sorry.html)
+*  [Video - Getting Called Out: How to Apologize](https://www.youtube.com/watch?v=C8xJXKYL8pU&t=2s)
+
+**Individual Experience:** We agree that no one should be required or expected to speak for their whole race or gender. We can't, even if we wanted to.
+ 
+**Share the Air:** Share responsibility for including all voices in the discussion. If you have a tendency to dominate discussions, take a step back and help the group invite others to speak. If you tend to stay quiet, challenge yourself to share ideas so others can learn from you. We acknowledge though, that nobody is required to share their experiences and nobody is expected to educate others. We will not call on any individual or call for members of a specific group to speak up.
+
+**Not Experts:** Epicodus Staff are not experts. They are here to help facilitate the process. They and everyone in the group are here to learn.
+
+**Ask for help:** It's okay not to know. Keep in mind that we are all still learning and are bound to make mistakes when approaching a complex task or exploring new ideas. Be open to changing your mind, and make space for others to do so as well. 
+
+### [Do you have feedback?](#do-you-have-feedback)
+At the end of each DEI lesson, you’ll find this section. We welcome your feedback and want to hear about your experience of the DEI curriculum, discussions and workshops. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
