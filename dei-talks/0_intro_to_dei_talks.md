@@ -1,6 +1,6 @@
 Epicodus is committed to increasing diversity in the tech industry. That means serving students from underrepresented communities and also doing everything we can to increase the representation of these communities in the tech community. This includes BIPOC (black, indigenous and people of color), women, LGBTQ, people with disabilities, and other marginalized populations.
  
-As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** lessons and workshops. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) throughout the program. We'll also briefly cover these terms here:
+As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** lessons, discussions, and workshops. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) throughout the program. We'll also briefly cover these terms here:
  
 * **Diversity**: Traditionally, the tech industry has skewed heavily white and male. Bringing **diversity** to the tech industry means hiring and retaining people of color, women, LGBTQ, people with disabilities, and other marginalized populations. These groups also leave tech jobs at a much higher rate than white men, and diversity means addressing this higher attrition rate as well.
 
