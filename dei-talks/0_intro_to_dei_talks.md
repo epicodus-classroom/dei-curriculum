@@ -9,6 +9,7 @@ As part of our effort towards building a more diverse tech industry, our curricu
 * **Inclusion**: In order to diversify the tech industry, we need to be **inclusive**. While diversity refers to the traits and characteristics that make us different from one another, inclusion refers to the actions we take to make others feel welcome.
  
 If these definitions seem a bit vague right now, that's okay. We'll be covering them more in depth in upcoming lessons.
+
 Throughout the program, you will be asked to read short lessons on various DEI topics as homework. Unfortunately, we have seen many situations where students from diverse backgrounds are marginalized, whether that's at Epicodus, in the tech industry, or elsewhere. By actively learning about DEI concepts, we can better work together to include students from all backgrounds. Take the time to read through each lesson. We are open to feedback, and we encourage discussion on any topic.
 
 We’ll also have dedicated time in class for one group discussion and four workshops. The first discussion will happen in the third week of class where we’ll be talking about microaggressions. To prepare for the discussion, you will read a lesson on microaggressions as homework. Then, in the 5th, 10th, and 15th week of the program, Epicodus leadership will conduct workshops with the entire student body that go into depth on a specific topic within diversity, equity, and inclusion.
