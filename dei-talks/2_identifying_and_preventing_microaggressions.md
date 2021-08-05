@@ -2,7 +2,7 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. 
 
 This week, we will cover microaggressions: what they are, how they impact people, and how to recognize and prevent them.
 
-## Marginalization
+## [Marginalization](#marginalization)
 
 When you are marginalized, you are treated as an outsider or you are in the minority in a given situation. Please consider the following experiences from individuals who have experienced marginalization.
 
@@ -22,7 +22,7 @@ Read one last story now, this time [from Lindsay Grizzard, a woman on an otherwi
 
 When we're already tense from sticking out, the uncertainty of whether and why we're being treated differently can eat away at us and make it difficult to participate. And others' discomfort with our "otherness" can often lead them to treat us differently.
 
-## Understanding Microaggressions
+## [Understanding Microaggressions](#understanding-microaggressions)
 
 The way that Lindsay Grizzard's boss didn't want to pair program with her is an example of a **microaggression**. Derald Wing Sue, Professor of Psychology and Education at Columbia University, defines microaggressions as:
 
@@ -41,7 +41,7 @@ Here are several real-world examples of microaggressions, including some we've a
 * An older student refers to their younger co-students as 'kids'. (Hidden message: _"Younger students are lacking in comparison to their older counterparts.",_)
 * A student brings in snacks to share with their class. Another student politely declines the food, mentioning they're fasting in recognition of a religious holiday. The offering student exclaims _"That's sooooo crazy! I could never fast like that! Insane! How do you do it?!"_ (Hidden message: _"Your religious practices and identity are abnormal."_)
 
-## The Impact of Microaggressions
+## [The Impact of Microaggressions](#the-impact-of-microaggressions)
 
 The term microaggression combines the words "micro" and "aggression," but in some ways the term is misleading because the impact of microaggressions long-term is very significant. According to Dr. Sue:
 
@@ -51,7 +51,7 @@ These issues arise because microaggressions themselves can be subtle even if the
 
 > Microaggressions hold their power because they are invisible, and therefore they don't allow whites to see that their actions and attitudes may be discriminatory. Therein lies the dilemma. The person of color is left to question what actually happened. The result is confusion, anger and an overall draining of energy.
 
-## Avoiding Microaggressions
+## [Avoiding Microaggressions](#avoiding-microaggressions)
 
 If you rarely have that "sticking out" feeling, we really encourage you to start regularly thinking about how your actions impact people in minority groups. (If this feels like a lot to ask, think back to Jules Walter's suggestion to remember an experience where you were a minority and the emotional energy that state took; surely you can spare some of your own brain power to help others who are in this situation!) Here are a few rules of thumb to help you help others feel included:
 
@@ -63,11 +63,11 @@ If you rarely have that "sticking out" feeling, we really encourage you to start
 * Don't allow stereotypes to inform how you view, interact with, or discuss others.
 * Remember that current students are your future coworkers and network. Have fun, but act as you would in a professional workplace. After all, Epicodus is essentially your first "job" in the industry. Leave a good impression.
 
-## Dealing with Microaggressions
+## [Dealing with Microaggressions](#dealing-with-microaggressions)
 
 But what should we do if we are involved in a microaggression, whether as the target, a witness, or the person committing it? Here are some tips on handling microaggressions from each of these three roles:
 
-### What Should I Do if I've Committed a Microaggression?
+### [What Should I Do if I have Committed a Microaggression?](#what-should-i-do-if-i-have-committed-a-microaggression)
 
 If you stepped on someone's foot, you'd apologize, right? Even if it was completely unintentional, you still stepped on them. And that can hurt! Well, the same goes for microaggressions; while their damaging "hidden messages" aren't always intended, they still hurt. So they deserve acknowledgement, an apology, and reflection to prevent them from occurring again. Here are some things you can do when you commit a microaggression:
 
@@ -81,7 +81,7 @@ If you stepped on someone's foot, you'd apologize, right? Even if it was complet
 * Follow up with Epicodus staff if you have remaining concerns or would like more guidance on preventing future microaggressions.
 * Recognize that no matter how sorry you are or how unintentional it was, you are not the victim.
 
-### What Can I Do if I'm the Target of a Microaggression?
+### [What Can I Do if I am the Target of a Microaggression?](#what-can-i-do-if-i-am-the-target-of-a-microaggression)
 
 There are many ways to respond when you are the target a microaggression. In this section, we are outlining a few ideas for folks who may not have context for microaggressions or experience with how to handle them. 
 
@@ -96,7 +96,7 @@ Here are guidelines on handling microaggressions targeted at you and communities
 * Please let Epicodus staff know if you ever feel threatened, unsafe, or unwelcome at any time. We are here to advocate for you.
 * If you feel you can no longer pair with another student due to microaggressions, inform Epicodus staff so we may accommodate.
 
-### What Should I Do if I Witness a Microaggression?
+### [What Should I Do if I Witness a Microaggression?](#what-should-i-do-if-i-witness-a-microaggression)
 
 * Don't assume no one is hurt by a comment. Even if there are no clear targets, we all need to work together to make Epicodus a safe space.
 * If you feel comfortable doing so, say something to the perpetrator(s) of the microaggression. Again, remember that their intent may have been different from their impact.
@@ -104,19 +104,19 @@ Here are guidelines on handling microaggressions targeted at you and communities
 * Listen and be supportive. This is an opportunity to learn about the experiences of others and to become a better peer and coworker.
 * Let Epicodus staff know if students are acting in an inappropriate or hostile manner. We're here to support and help!
 
-### Code of Conduct Violations
+### [Code of Conduct Violations](#code-of-conduct-violdations)
 
 To create a safe and welcoming learning environment, it's important that all students treat each other, and staff, with respect, kindness, and empathy. This includes respecting and welcoming all races, genders, ability levels, sexual orientations, ages, religions, and other traits and statuses.
 
 Students that repeatedly target others with microaggressions, and/or display no improvement in this behavior after staff intervention are in violation of our Code of Conduct (in our [Student Handbook](https://www.epicodus.com/student-handbook/)) and will be asked to leave.
 
-### Continuing to Talk About Microagressions
+### [Continuing to Talk About Microagressions](#continuing-to-talk-about-microaggressions)
 
 Talking about our identities can be uncomfortable, especially if you haven't had these kinds of conversations before. It can be tempting to make jokes as a way of lessening that discomfort, but we'd urge you to avoid this kind of humor. Being a minority in any environment can be stressful, and having somebody joke about that experience can feel belittling.
 
 On the other hand, we urge you to continue talking with your friends, classmates, and teachers about microaggressions and other aspects of making Epicodus an inclusive community.
 
-### Being An Ally
+### [Being An Ally](#being-an-ally)
 
 We encourage students to become allies. An ally is a person who actively works to improve conditions for people from groups with less power. Working towards preventing and calling out microaggressions is a good start. However, there are many other ways we can be allies as well.
 
@@ -127,7 +127,7 @@ We recommend checking out the following resources if you are interested in becom
 * [Better Allies](https://code.likeagirl.io/@betterallies): Weekly articles that provide steps toward being a better ally.
 * [Being an Ally to Women in Technology](https://medium.com/@hadrad1000/how-do-i-ally-being-an-ally-to-women-in-technology-73b70fb86a98): A resource on being an ally to women in tech.
 
-## Further Resources
+## [Further Resources](#further-resources)
 
 *  [_Racial Microaggressions in Everyday Life_](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201010/racial-microaggressions-in-everyday-life)
 * [_Microaggressions: More than Just Race_](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201011/microaggressions-more-just-race)
@@ -139,5 +139,5 @@ We recommend checking out the following resources if you are interested in becom
 * [Interview with Julie Ann Horvath](https://modelviewculture.com/pieces/interview-with-julie-ann-horvath): An interview with Julie Ann Horvath, a whistleblower against sexist behavior at Github.
 * [Susceptible to Imposter Syndrome](http://peopleofcolorintech.com/engineers/susceptible-to-imposter-syndrome/): A developer and woman of color talks about her experience with imposter syndrome.
 
-### Do you have feedback?
+### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

@@ -18,5 +18,5 @@ At Epicodus, we believe anyone can learn to code. However, that's not the same a
 
 Many forward-thinking tech companies agree with this assessment. Companies may be more willing to hire and train people from underrepresented communities in order to promote equity and diversity. Because people from underrepresented groups face many other challenges in the tech field, one thing tech companies can do is put additional time into the training and hiring process.
 
-### Do you have feedback?
+### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

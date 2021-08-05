@@ -1,6 +1,6 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week, we'll learn about why DEI efforts are so important in the tech industry - and elsewhere.
 
-## Equity Versus Equality
+## [Equity Versus Equality](#equity-versus-equality)
 
 When we value equity, it means that we are focused on giving people what they need to be successful.
 
@@ -12,7 +12,7 @@ Also, there's a simple, sad fact - we have a long way to go, both in the tech in
 
 Unfortunately, this lack of equality and equity is systemic - it doesn't just affect Sally. It affects entire groups of people. As a result, women, BIPOC (Black, Indigenous, and People of Color), and other groups are still underrepresented in the tech industry, as this [Wired article shows](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). Instead, as the charts in this article demonstrate, the industry is overwhelmingly white and male.
 
-## Recognizing Privilege
+## [Recognizing Privilege](#recognizing-privilege)
 
 Why is the industry primarily white and male? There is no compelling evidence to show that white men have innately better ability to code and work in the tech industry than other groups. Rather, both white people and men have long had more **privilege** than other underrepresented groups in the tech industry - and this trend continues to this day. **Privilege** is an unearned advantage that a society gives to some but not all people. Because of systemic racism, sexism, and other societal issues, underrepresented groups are not given these same privileges.
 
@@ -24,5 +24,5 @@ As we can see, there are many different kinds of privilege. In order to have a d
 
 Privilege can be a hot button topic for many, often because it's common to have some privileges but not others. Also, people are often afraid of losing the privileges they already have. However, equity is not about taking privileges away from people that already have them. Instead, it's about giving those privileges to everyone. In the case of the tech industry, that means providing opportunity to underrepresented groups.
 
-### Do you have feedback?
+### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

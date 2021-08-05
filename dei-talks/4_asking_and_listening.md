@@ -1,6 +1,6 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week we will discuss two of the most powerful tools at our disposal: **asking** and **listening**. These are essential soft skills that will help us be more inclusive - and are also instrumental to getting jobs.
 
-## Asking Questions
+## [Asking Questions](#asking-questions)
 
 When we are learning how to code and spending many hours every day problem-solving, it can be easy to get overly focused on trying to have all the answers.
 
@@ -32,7 +32,7 @@ Taking this approach will improve our pairing skills, help us prevent behavior t
 
 Of course, asking is only part of the equation. It's even more important to listen.
 
-## Listening
+## [Listening](#listening)
 
 Let's take another look at the scenario from before. John says "I have an idea. Can I run it by you?" In response, Tim says, "Not quite yet. I want to try something first." John insists on trying his idea anyway and takes the keyboard from Tim.
 
@@ -49,7 +49,7 @@ In order to be better listeners, we can do the following:
 
 2. **Respond or take action based on what we've been told.** For instance, if we ask a question, we need to be prepared to listen and take action based on the response. In the example above, when Tim says he wants to try another approach, John's actions demonstrate a disregard for his pair's response. The better course of action here would be for John to wait until it's his turn to drive or until Tim lets John know that he'd like to hear his answer.
 
-## Asking and Listening Can Help Us Avoid Common Pitfalls
+## [Asking and Listening Can Help Us Avoid Common Pitfalls](#asking-and-listening-can-help-us-avoid-common-pitfalls)
 
 Here are some issues that can come up if we don't ask and listen.
 
@@ -67,5 +67,5 @@ It should be clear that poor listening skills can lead to a wide variety of prob
 
 We can solve most problems by asking questions and being good listeners.
 
-### Do you have feedback?
+### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

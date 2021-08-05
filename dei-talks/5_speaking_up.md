@@ -1,6 +1,6 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week we will discuss speaking up against hurtful language or behavior. 
 
-## Speaking Up
+## [Speaking Up](#speaking-up)
 
 In an ideal world, we wouldn't have to worry about microaggressions or other hurtful behavior. Unfortunately, we don't live in that ideal world. When we are on the receiving end of - or see someone else on the receiving end of - a microaggression or other hurtful behavior, we need to have tools in place to speak up.
  
@@ -62,5 +62,5 @@ Also, the following articles from Harvard Business Review provide excellent reso
  
 * [How to Respond to an Offensive Comment at Work](https://hbr.org/2017/02/how-to-respond-to-an-offensive-comment-at-work)
 
-### Do you have feedback?
+### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

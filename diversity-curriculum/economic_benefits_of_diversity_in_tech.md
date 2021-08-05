@@ -20,5 +20,5 @@ According to [Maxine Williams, the Global Chief Diversity Officer at Facebook](h
 
 Ultimately, diversity is an asset, not a liability - and diversity makes both Epicodus and other organizations better places to work.
 
-### Do you have feedback?
+### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

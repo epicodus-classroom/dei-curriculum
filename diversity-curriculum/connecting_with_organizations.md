@@ -4,7 +4,7 @@ If you feel discouraged about your prospects of entering tech as a member of an 
 
 Such organizations hosts meetups and offer programs to serve underrepresented groups. Going to their meetups can bring new networking opportunities where you can meet individuals of an underrpresented group who are established in the tech field. Meetups can also offer a system of support.
 
-### Ways to find these organizations
+### [Ways to find these organizations](#ways-to-find-these-organizations)
 
 [Meetup](https://www.meetup.com/)
 
@@ -14,7 +14,7 @@ Such organizations hosts meetups and offer programs to serve underrepresented gr
 
 - Eventbrite is where you'll find single event postings. Many organizations use this site to advertise bigger events they're hosting.
 
-### Here are some popular organizations recommended by staff:
+### [Popular organizations recommended by staff](#popular-organizations-recommended-by-staff)
 
 **She's Coding (Seattle)** [Meetup](https://www.meetup.com/shescoding-seattle/) | [Website](http://shescoding.org)
 
@@ -32,5 +32,5 @@ Such organizations hosts meetups and offer programs to serve underrepresented gr
 
 - Ada Developers Academy is a non-profit, tuition-free coding school for women and gender diverse adults. They focus on serving low income people, underrepresented minorities, and members of the LGBTQIA+ community.
 
-### Do you have feedback?
+### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
