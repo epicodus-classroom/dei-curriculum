@@ -2,7 +2,7 @@ Epicodus is committed to increasing diversity in the tech industry. That means s
  
 As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** lessons, discussions, and workshops. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) throughout the program. We'll also briefly cover these terms here:
  
-* **Diversity**: Traditionally, the tech industry has skewed heavily white and male. Bringing **diversity** to the tech industry means hiring and retaining people of color, women, LGBTQ, people with disabilities, and other marginalized populations. These groups also leave tech jobs at a much higher rate than white men, and diversity means addressing this higher attrition rate as well.
+* **Diversity**: Traditionally, the tech industry has skewed heavily white and male. Bringing diversity to the tech industry means hiring and retaining people of color, women, LGBTQ, people with disabilities, and other marginalized populations. These groups also leave tech jobs at a much higher rate than white men, and diversity means addressing this higher attrition rate as well.
 
 * **Equity**: To define equity, we also have to think about equality. Equality is about treating everyone equally regardless of their background. Equity, on the other hand, means recognizing that everyone's background is different. For example, Epicodus used to have a technical assessment for its applicants. While this approach treated students equally, students who didn't grow up with access to technology were less likely to be able to pass that assessment. So we added the Introduction to Programming course to make our program more equitable for students with less of a technical background.
  
