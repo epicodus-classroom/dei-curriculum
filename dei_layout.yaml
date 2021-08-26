@@ -1,4 +1,6 @@
 ---
 part_time: false
 internship: false
-number_of_days: 0
+number_of_days: 1
+class_times:
+  Friday: 8:00-17:00
