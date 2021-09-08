@@ -1,3 +1,13 @@
+## DEI Journal Overview
+---
+
+Here we can explain what journal entries are. Or something.
+
+## Today's Journal
+---
+
+### Addressing Implicit Bias
+
 Please write some thoughts about implicit bias. 
 
 Here's some more example prompt text.
