@@ -1,0 +1,27 @@
+---
+- :day: weekend
+  :lessons:
+  - :title: "Introduction to Diversity, Equity, and Inclusion Curriculum"
+    :filename: dei-talks/0_intro_to_dei_talks.md
+  - :title: Equality versus Equity
+    :filename: diversity-curriculum/equity_vs_equality.md
+  - :title: Identifying and Preventing Microaggressions
+    :filename: dei-talks/2_identifying_and_preventing_microaggressions.md
+  - :title: Imposter Syndrome
+    :filename: dei-talks/3_imposter_syndrome.md
+  - :title: Asking and Listening
+    :filename: dei-talks/4_asking_and_listening.md
+  - :title: Speaking Up
+    :filename: dei-talks/5_speaking_up.md
+  - :title: Recognizing Privilege
+    :filename: dei-talks/3_recognizing_privilege.md
+  - :title: "Inclusive Terminology: Using a Main Branch"
+    :filename: diversity-curriculum/changing_master_to_main_gh.md
+  - :title: Jokes and Appropriate Humor
+    :filename: dei-talks/8_jokes_and_humor.md
+  - :title: Addressing Implicit Bias
+    :filename: diversity-curriculum/addressing_implicit_bias.md
+  - :title: Understanding Stereotype Threat
+    :filename: diversity-curriculum/understanding_stereotype_threat.md
+  - :title: Economic Benefits of Diversity in Tech
+    :filename: diversity-curriculum/economic_benefits_of_diversity_in_tech.md
