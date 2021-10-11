@@ -1,6 +1,6 @@
 Epicodus is committed to increasing diversity in the tech industry. That means serving students from underrepresented communities and also doing everything we can to increase the representation of these communities in the tech community. This includes BIPOC (black, indigenous and people of color), women, LGBTQ+, people with disabilities, and other marginalized populations.
  
-As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** lessons, discussions, and workshops. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) throughout the program. We'll also briefly cover these terms here:
+As part of our effort towards building a more diverse tech industry, our curriculum includes **DEI** lessons, discussions, reflective assignments, and workshops. **DEI** is short for **Diversity, Equity and Inclusion**. We will cover these terms (and many more) throughout the program. We'll also briefly cover these terms here:
  
 * **Diversity**: Traditionally, the tech industry has skewed heavily white and male. Bringing diversity to the tech industry means hiring and retaining people of color, women, LGBTQ, people with disabilities, and other marginalized populations. These groups also leave tech jobs at a much higher rate than white men, and diversity means addressing this higher attrition rate as well.
 
@@ -18,7 +18,9 @@ Finally, we’ll also have dedicated time in class for one group discussion and 
 
 Having periodic DEI discussions and workshops gives us an opportunity to shift the focus away from coding and onto working together on important DEI issues. We believe that no one person is an expert on all forms of marginalization, that harm can be done towards other groups and within groups, and that there’s a lot to gain in learning about DEI issues. Our intention is to learn from each others’ differences, similarities, and the intersections throughout our identities, privileges, and oppressions. We recognize that no one person can speak universally to an experience or identity, rather that we all benefit from intentional, ongoing education on justice and equity. Ultimately, our highest priority, even beyond teaching students to code, is to create a safe space for our students and be good stewards in the tech industry.
 
-### [Community Agreements](#community-agreements)
+## [Community Agreements](#community-agreements)
+
+---
 
 To ensure a safe and productive space in our classroom, we’ve created a set of community agreements adapted from [Discussion Ground Rules (Iowa State University Library)](https://instr.iastate.libguides.com/c.php?g=957020&p=6908208) and [Ground Rules and Tools: Facilitating Productive Discussions (UCAR)](https://www.ucar.edu/who-we-are/diversity-inclusion/community-resources/ground-rules-tools). We ask that you respect these agreements in all interactions at Epicodus. Also, please read and review these agreements prior to each DEI discussion and workshop to better be in the right frame of mind for the discussions. As needed, we will modify these agreements as a group to meet the needs of the class.
 
