@@ -20,7 +20,7 @@ We hope you find these reflective assignments to be thought-provoking! We always
 
 Please write a reflection about this prompt:
 
-> Reflect on a time when asking and listening made a difference in resolving a conflict with someone OR making a connection with someone.
+> Reflect on a time when asking and listening made a difference in resolving a conflict with someone or making a connection with someone.
 
 To review the lesson for this prompt, visit this link:
 
