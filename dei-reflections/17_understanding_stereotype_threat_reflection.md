@@ -20,7 +20,7 @@ We hope you find these reflective assignments to be thought-provoking! We always
 
 Please write a reflection about this prompt:
 
-> Write about a situation in which you'd typically seek to treat everyone equally. Then, re-approach the situation with the goal of treating everyone equitably.
+> What is your biggest takeaway from this lesson, or either of the articles we link to?
 
 To review the lesson for this prompt, visit this link:
 
