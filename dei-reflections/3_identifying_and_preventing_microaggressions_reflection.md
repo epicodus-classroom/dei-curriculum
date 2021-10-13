@@ -24,4 +24,4 @@ Please write a reflection about this prompt:
 
 To review the lesson for this prompt, visit this link:
 
-**<span class="glyphicon glyphicon-link"></span> [Identifying and Preventing Microaggressions](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/identifying-and-preventing-microaggressions)**
+** [Identifying and Preventing Microaggressions](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/identifying-and-preventing-microaggressions)**

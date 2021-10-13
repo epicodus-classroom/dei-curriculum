@@ -24,4 +24,4 @@ Please write a reflection about this prompt:
 
 To review the lesson for this prompt, visit this link:
 
-**<span class="glyphicon glyphicon-link"></span> [Asking and Listening](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/asking-and-listening)**
+** [Asking and Listening](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/asking-and-listening)**
