@@ -24,4 +24,4 @@ Please write a reflection about this prompt:
 
 To review the lesson for this prompt, visit this link:
 
-[Imposter Syndrome](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/imposter-syndrome
+[Imposter Syndrome](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/imposter-syndrome)

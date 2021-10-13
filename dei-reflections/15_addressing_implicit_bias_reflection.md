@@ -24,4 +24,4 @@ Please write a reflection about this prompt:
 
 To review the lesson for this prompt, visit this link:
 
-[Addressing Implicit Bias](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/addressing-implicit-bias
+[Addressing Implicit Bias](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/addressing-implicit-bias)

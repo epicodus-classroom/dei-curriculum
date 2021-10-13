@@ -24,4 +24,4 @@ Please write a reflection about this prompt:
 
 To review the lesson for this prompt, visit this link:
 
-** [Equality Versus Equity](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/equality-versus-equity)**
+[Equality Versus Equity](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/equality-versus-equity)
