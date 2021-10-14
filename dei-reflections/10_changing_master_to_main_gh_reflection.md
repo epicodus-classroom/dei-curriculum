@@ -20,8 +20,8 @@ We hope you find these reflective assignments to be thought-provoking! We always
 
 Please write a reflection about this prompt:
 
-> Can you share another example of language use that you think should be changed to be more inclusive? Or, an example of a change in language use that has made an impact on you, your friend, or family? 
+> Share another example of language use that you think should be changed to be more inclusive. Or, an example of a change in language use that has made an impact on you, your friend, or family.
 
 To review the lesson for this prompt, visit this link:
 
-**<span class="glyphicon glyphicon-link"></span> [Inclusive Terminology: Using a Main Branch](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/inclusive-terminology-using-a-main-branch)**
+[Inclusive Terminology: Using a Main Branch](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/inclusive-terminology-using-a-main-branch)

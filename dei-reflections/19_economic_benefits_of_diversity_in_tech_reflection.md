@@ -24,4 +24,4 @@ Please write a reflection about this prompt:
 
 To review the lesson for this prompt, visit this link:
 
-**<span class="glyphicon glyphicon-link"></span> [Inclusive Terminology: Using a Main Branch](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/economic-benefits-of-diversity-in-tech)**
+[Economic Benefits of Diversity in Tech](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/economic-benefits-of-diversity-in-tech)

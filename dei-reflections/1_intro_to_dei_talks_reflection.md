@@ -24,4 +24,4 @@ Please write a reflection about this prompt:
 
 To review the lesson for this prompt, visit this link:
 
-**<span class="glyphicon glyphicon-link"></span> [Introduction to Diversity, Equity, and Inclusion Curriculum](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/introduction-to-diversity-equity-and-inclusion-curriculum)**
+[Introduction to Diversity, Equity, and Inclusion Curriculum](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons/introduction-to-diversity-equity-and-inclusion-curriculum)
