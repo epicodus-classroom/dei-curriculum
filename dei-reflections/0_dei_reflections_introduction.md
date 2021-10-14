@@ -18,9 +18,17 @@ Also, you will see a due date for each reflective assignment. This due date line
 
 ### [Finding the Reflection Prompts](#finding-the-reflection-prompts)
 
-Similar to code reviews, the prompts for your reflections are found in the courses tab on Epicenter, in a section titled “Reflections”. The reflection prompt is found in the same course that the DEI lesson reading was originally assigned. 
+The reflection prompt is found in the same course that the DEI lesson reading was originally assigned. In the homepage of every technical course on Epicenter, there are code reviews as well as reflections listed.
 
-For example, in “JavaScript and jQuery”, section 2 of the Introduction to Programming course, we assign the lesson [Equity versus Equality](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/homework-equality-versus-equity). That means the reflection prompt for “Equity versus Equality” can be found on Epicenter in the Introduction to Programming course.  
+For example, in “JavaScript and jQuery”, the second section of the _Introduction to Programming_ course, we assign the lesson [Equity versus Equality](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/homework-equality-versus-equity). That means the reflection prompt for “Equity versus Equality” can be found on Epicenter in the _Introduction to Programming_ course. 
+
+Follow these steps to find the reflection prompt for the DEI lesson you finished reading:
+
+  * Log into _Epicenter_.
+  * If you are not already on this page, select _Courses_ from the navigation bar at the top of the page.
+  * Select your current course.
+  * Then, look for the _Reflections_ section within that course. 
+  * Find and select the reflection that matches the title of the DEI lesson. This will open the submisison page with the reflection prompt.
 
 ### [Giving Feedback](#giving-feedback)
 
