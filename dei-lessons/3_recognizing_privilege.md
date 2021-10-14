@@ -24,5 +24,13 @@ As we can see, there are many different kinds of privilege. In order to have a d
 
 Privilege can be a hot button topic for many, often because it's common to have some privileges but not others. Also, people are often afraid of losing the privileges they already have. However, equity is not about taking privileges away from people that already have them. Instead, it's about giving those privileges to everyone. In the case of the tech industry, that means providing opportunity to underrepresented groups.
 
+### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
+
+There is a reflective assignment for this lesson. If you are ready to write your reflection, head on over to Epicenter to find the prompt. If you are logged in to Epicenter, you can access the prompt by navigating to this link:
+
+**<span class="glyphicon glyphicon-link"></span> [Reflection Prompt: Recognizing Privilege](https://epicenter.epicodus.com/journals?title=Recognizing+Privilege)** 
+
+Otherwise, you can find detailed instructions on accessing the refltion prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
+
 ### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

@@ -59,5 +59,13 @@ Hopefully by the end of 2020 these changes will be easier to make. And as far as
  
 If you'd like to learn more about the process of renaming repos so they use _main_ as a default, see the [GitHub documentation on renaming](https://github.com/github/renaming).
 
+### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
+
+There is a reflective assignment for this lesson. If you are ready to write your reflection, head on over to Epicenter to find the prompt. If you are logged in to Epicenter, you can access the prompt by navigating to this link:
+
+**<span class="glyphicon glyphicon-link"></span> [Reflection Prompt: Inclusive Terminology and Using a Main Branch](https://epicenter.epicodus.com/journals?title=Inclusive+Terminology:+Using+a+Main+Branch)** 
+
+Otherwise, you can find detailed instructions on accessing the refltion prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
+
 ### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

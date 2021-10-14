@@ -23,5 +23,13 @@ Here are some key tips to consider when it comes to humor at Epicodus, in the wo
 * **Don't tell jokes about members of underrepresented groups.** This is an extension of the above point but it's important to emphasize. Underrepresented groups include but are not limited to women, people of color, and people with disabilities - as well as many other groups.
 * **If you accidentally offend someone, apologize.** There's no need to get worked up - just apologize if your joke landed the wrong way.
 
+### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
+
+There is a reflective assignment for this lesson. If you are ready to write your reflection, head on over to Epicenter to find the prompt. If you are logged in to Epicenter, you can access the prompt by navigating to this link:
+
+**<span class="glyphicon glyphicon-link"></span> [Reflection Prompt: Jokes and Appropriate Humor](https://epicenter.epicodus.com/journals?title=Jokes+and+Appropriate+Humor)** 
+
+Otherwise, you can find detailed instructions on accessing the refltion prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
+
 ### [Do you have feedback?](#do-you-have-feedback)
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

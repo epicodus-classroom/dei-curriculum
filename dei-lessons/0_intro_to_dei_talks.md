@@ -49,5 +49,13 @@ To ensure a safe and productive space in our classroom, we’ve created a set of
 
 **Ask for help:** It's okay not to know. Keep in mind that we are all still learning and are bound to make mistakes when approaching a complex task or exploring new ideas. Be open to changing your mind, and make space for others to do so as well. 
 
+### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
+
+There is a reflective assignment for this lesson. If you are ready to write your reflection, head on over to Epicenter to find the prompt. If you are logged in to Epicenter, you can access the prompt by navigating to this link:
+
+**<span class="glyphicon glyphicon-link"></span> [Reflection Prompt: Introduction to DEI Curriculum](https://epicenter.epicodus.com/journals?title=Introduction+to+DEI+Curriculum)** 
+
+Otherwise, you can find detailed instructions on accessing the refltion prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
+
 ### [Do you have feedback?](#do-you-have-feedback)
 At the end of each DEI lesson, you’ll find this section. We welcome your feedback and want to hear about your experience of the DEI curriculum, discussions and workshops. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
