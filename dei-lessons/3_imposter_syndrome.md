@@ -4,20 +4,34 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
  
 ## [What is Imposter Syndrome?](#what-is-imposter-syndrome)
  
-Imposter syndrome is the fear that we aren't good enough. This feeling often persists even when we are successful at something. When we experience imposter syndrome, we doubt the quality of our work and worry that sooner or later others will realize we are frauds. Doctors Pauline R. Clance and Suzanne A. Imes coined the term in the late seventies. Their research focused on ways imposter syndrome affects women in particular, though it can (and often does) affect people from all groups.
+Imposter syndrome is the fear that we aren't good enough. This feeling often persists even when we are successful at something. [This article](https://www.apa.org/gradpsych/2013/11/fraud) from the American Psychological Association by Kirsten Weir defines imposter syndrome as a feeling that:
+
+> occurs among high achievers who are unable to internalize and accept their success. They often attribute their accomplishments to luck rather than to ability, and fear that others will eventually unmask them as a fraud…. Impostor feelings are generally accompanied by anxiety and, often, depression.
+
  
 Imposter syndrome is an issue in many fields and it is especially common in the tech industry. In fact, according to [this 2018 study from Blind](https://www.teamblind.com/blog/index.php/2018/09/05/58-percent-of-tech-workers-feel-like-impostors/), 58% of employees in the tech industry were currently experiencing imposter syndrome at the time they were surveyed. According to one quote from a software engineer in the article, "[I] still feel like an impostor after 14 years in the business."
  
-There is also evidence that imposter syndrome disproportionately affects people from underrepresented groups, as this [2018 article in the New York Times](https://www.nytimes.com/2018/06/12/smarter-living/dealing-with-impostor-syndrome-when-youre-treated-as-an-impostor.html) discusses.
- 
-Here are some common symptoms of imposter syndrome:
- 
-* Anxiety
-* Self-doubt
-* Fear of being exposed as a fraud
-* Comparing oneself to others
- 
-There are many other symptoms, too, and imposter syndrome can affect people in a wide variety of ways.
+There is also evidence that imposter syndrome disproportionately affects people from underrepresented groups. In [this People of Color in Tech article](https://peopleofcolorintech.com/engineers/susceptible-to-imposter-syndrome/), Nida Sajid, a developer and woman of color, describes how the microaggressions she faces lead to imposter syndrome:
+
+> A huge reason why imposter syndrome resurfaces time and again — leading me to believe that my work is sub-par and inadequate — is because for every ‘Excellent work, Nida,’ that I get from my boss, I get countless more remarks like these:
+>
+> “You don’t look like you have a maths degree!”
+> “You work in tech? You don’t look like you do!”
+> “You coded your blog from scratch? You mean you used WordPress, right?”
+> “You can just draw the diagrams as girls are good at that.”
+> “Your code isn’t bad … for a girl.”
+
+Here's how Louise Curtis [describes her experience with imposter syndrome](https://medium.com/women-in-tech-not-just-code/how-im-trying-to-combat-my-impostor-syndrome-48f0b4deb58):
+
+> As if we’re [women are] not all up against enough external obstacles when it comes to succeeding in the workplace, the second we start to do well at work, impostor syndrome sits inside our own minds telling us we don’t deserve our success.
+
+> That’s not to claim impostor syndrome as a purely feminist issue. I’ve met plenty of men who suffer the same fears as me when it comes to “being found out”. In fact, on my first date with my husband we bonded over a shared disbelief that we were doing well in our careers. As I sat across from this clearly very talented man and listened to him talk about how he attributed his career entirely to luck, I felt understood.
+
+Curtis provides a great analogy to experiencing imposter syndrome when going to a concert that we'd highly recommend reading from her post. She concludes by reflecting on the moment when she realized how to address her imposter syndrome at concerts as well as professionally:
+
+> 1. When I feel like an impostor, it means I care about doing well at something.
+> 2. When I feel like an impostor, it means I respect and admire the accomplishments of the people around me….
+> Since that moment, I’ve tried to approach my impostor syndrome a little differently. When I feel it start to bite, I know this means I’m passionate about something, and that I’m surrounded by the right people to help me improve — so I dive in head first. And do you know what? It’s changed my life, and helped me achieve goals I never thought I would even try to tackle.
  
 Just as it's common in the tech industry, we've found that imposter syndrome is common at Epicodus as well. Epicodus is an intensive program and students often report feeling constantly behind. There is always more to learn and the tools we use in the tech industry evolve more quickly than we can keep up with them. That feeling of being underwater often continues with a first job and beyond. In fact, the experience of being deluged with information at a new dev job is colloquially referred to as "drinking from the firehose." As we get more experienced, we're asked to solve more challenging problems, often with little documentation at our disposal. It can be easy to look at others around us and think they are doing better - when in fact, as the study above shows, they may be experiencing similar struggles.
  
@@ -54,6 +68,10 @@ Here are some strategies for dealing with imposter syndrome. We are including st
 * **Do not offer advice or solutions unless they are asked for.** Constructive criticism and feedback can be useful - but it will rarely feel constructive unless it's requested.
  
 * **If someone needs support, be willing to listen.** Even if you're not experiencing imposter syndrome yourself, you can still listen and be supportive. And if you are experiencing imposter syndrome, this can be an opportunity to share your experiences together.
+
+* **Help create an inclusive culture.** In [this Harvard Business Review](https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome) article, Ruchika Tulshyan and Jodi-Ann Burey note:
+
+> Even if women demonstrate strength, ambition, and resilience, our daily battles with microaggressions, especially expectations and assumptions formed by stereotypes and racism, often push us down…. Many of us across the world are implicitly, if not explicitly, told we don’t belong in white- and male-dominated workplaces…. When employees from marginalized backgrounds try to hold themselves up to a standard that no one like them has met (and that they’re often not expected to be able to meet), the pressure to excel can become too much to bear…. The answer to overcoming imposter syndrome is not to fix individuals but to create an environment that fosters a variety of leadership styles and in which diverse racial, ethnic, and gender identities are seen as just as professional as the current model….
 
 ### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
 
