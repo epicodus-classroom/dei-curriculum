@@ -1,28 +1,36 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week, we'll learn about why DEI efforts are so important in the tech industry - and elsewhere.
 
+## How Our Social Identities Help Shape Us
+
+Take a moment to read [this short comic strip](https://www.rnz.co.nz/news/the-wireless/373065/the-pencilsword-on-a-plate) about how our social identities shape our opportunities in life. While the comic focuses on class, think about how other social identities also shape opportunities in tech.
+
 ## [Equity Versus Equality](#equity-versus-equality)
 
 When we value equity, it means that we are focused on giving people what they need to be successful.
 
 On the other hand, equality is the idea that we should treat everyone the same no matter what - even if that means some people won't be successful as a result.
 
-There's a problem with treating everyone the same. People are born in different situations, with different challenges, and with different opportunities. Linda may grow up in a wealthy family with access to a computer, two parents and good schools. On the other hand, Sally may grow up without access to a computer in a single parent household - and may go to schools that don't offer the same opportunity and support. Sally may need some additional tools and support to have a greater chance at success in the tech industry.
+There's a problem with treating everyone the same. People are born in different situations, with different challenges, and with different opportunities. Think about the comic strip - if Richard and Paula both attended Epicodus in their thirties, what barrier would each of them face? How would those barriers be different?
 
-Also, there's a simple, sad fact - we have a long way to go, both in the tech industry and in our country, not just on issues of equity but also on basic equality. In the example above, Sally isn't getting equitable _or_ equal opportunity.
+Also, there's a simple, sad fact - we have a long way to go, both in the tech industry and in our country, not just on issues of equity but also on basic equality. In all likelihood, Paula wouldn't get equitable _or_ equal opportunity, as she'd battle assumptions about her abilities because of her gender and race.
 
-Unfortunately, this lack of equality and equity is systemic - it doesn't just affect Sally. It affects entire groups of people. As a result, women, BIPOC (Black, Indigenous, and People of Color), and other groups are still underrepresented in the tech industry, as this [Wired article shows](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). Instead, as the charts in this article demonstrate, the industry is overwhelmingly white and male.
+As a result As a result of the different experiences people of different social identities have, women, BIPOC (Black, Indigenous, and People of Color), and other groups are still underrepresented in the tech industry, as this [Wired article shows](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). Instead, as the charts in this article demonstrate, the industry is overwhelmingly white and male.
 
 ## [Recognizing Privilege](#recognizing-privilege)
 
-Why is the industry primarily white and male? There is no compelling evidence to show that white men have innately better ability to code and work in the tech industry than other groups. Rather, both white people and men have long had more **privilege** than other underrepresented groups in the tech industry - and this trend continues to this day. **Privilege** is an unearned advantage that a society gives to some but not all people. Because of systemic racism, sexism, and other societal issues, underrepresented groups are not given these same privileges.
+There is no compelling evidence to show that white men have innately better ability to code and work in the tech industry than other groups. Rather, both white people and men have long had more **privilege** than other underrepresented groups in the tech industry - and this trend continues to this day. **Privilege** is an unearned advantage that a society gives to some but not all people. Because of systemic racism, sexism, and other societal issues, underrepresented groups are not given these same privileges.
 
-Anyone can have privilege. For instance, take a look at the chart below from [Frame Shift Consulting's Ally Skills Workshop](https://frameshiftconsulting.com/ally-skills-workshop/), which illustrates different kinds of privilege.
+There are many different kinds of privilege. For instance, take a look at the chart below from [Frame Shift Consulting's Ally Skills Workshop](https://frameshiftconsulting.com/ally-skills-workshop/), which illustrates different sources of power and privilege.
 
 ![Chart shows examples of power and privilege.](https://www.dropbox.com/s/drxcizf28n1p3zf/image3.png?raw=1)
 
-As we can see, there are many different kinds of privilege. In order to have a diverse and equitable tech industry, we need to neutralize this privilege and practice inclusion.
+Now consider this excerpt from a [blog post by a Avery Francis, a Black woman working in HR for tech companies](https://blog.usejournal.com/the-black-experience-what-being-black-in-tech-really-feels-like-e3574ba28280), about some of the privileges Black people lack:
 
-Privilege can be a hot button topic for many, often because it's common to have some privileges but not others. Also, people are often afraid of losing the privileges they already have. However, equity is not about taking privileges away from people that already have them. Instead, it's about giving those privileges to everyone. In the case of the tech industry, that means providing opportunity to underrepresented groups.
+> For BIPOCs, socioeconomic status is often a barrier to entering the tech industry. Marginalized groups don’t typically have equal access to computer technology, often growing up in environments that are missing these tools. This makes early technological adoption challenging. Additionally, BIPOCS typically have less access to quality education than their white counterparts. Clustered into underserved neighbourhoods with neglected public-school funding, Black students have less exposure to adequate resources.
+
+> Even when they beat the odds, Black candidates are less likely to be hired. Statistics Canada revealed that in 2016, nearly seven in ten Black adults (25 to 59 years) had a postsecondary diploma. Still, the employment rate for Black men (78%) and Black women (71%) was lower compared to the overall population (83% and 75% respectively). It’s these kinds of unequal conditions that disproportionately impact the Black community, further limiting exposure and access to highly skilled industries like tech.
+
+Remember, we all have intersecting identities, and some have more privileges, and some have less. Take a moment to think about your identities, what privileges they give you at Epicodus, and what privileges you don't have.
 
 ### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
 
