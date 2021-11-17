@@ -6,7 +6,7 @@ Diversity, Equity, and Inclusion (DEI) curriculum at Epicodus includes periodic 
 
 In this lesson, we’ll discuss the reflective assignments that are tied to each DEI lesson. We also call these assignments “personal reflections”, in which you'll be given a prompt that you’ll write a short, reflective response to. You will write one personal reflection for every DEI lesson. The DEI lessons are integrated throughout each learning course, however [you can find every DEI lesson listed here](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons) to get a preview of what's to come.
 
-**Engaging in these reflective assignments is required to graduate from Epicodus.** Whereas our workshops are focused on group work, these reflective assignments are an opportunity for you to reflect and engage with important DEI topics by yourself.
+**Completing these reflective assignments is a graduation requirement at Epicodus.** Whereas our workshops are focused on group work, these reflective assignments are an opportunity for you to reflect and engage with important DEI topics by yourself.
 
 ### [How These Assignments Work](#how-these-assignments-work)
 
