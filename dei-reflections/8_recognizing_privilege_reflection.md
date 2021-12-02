@@ -14,7 +14,7 @@ We hope you find these reflective assignments to be thought-provoking! We always
 
 Please write a reflection about this prompt:
 
-> We invite you to reflect on your own social identities and if there was something that stood out to you from the lesson's infographics that you hadn't previously considered. Alternatively, if you do not feel like disclosing your own identities, please reflect on what other identities or positionalities you could add to the list of sources of power/privilege.
+> We invite you to reflect on your own social identities. Was there was something that stood out to you from the lesson's infographics that you hadn't previously considered? Alternatively, if you do not feel like disclosing your own identities, please reflect on what other identities or positionalities you could add to the list of sources of power/privilege.
 
 To review the lesson for this prompt, visit this link:
 
