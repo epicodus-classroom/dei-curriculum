@@ -2,9 +2,13 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. 
 
 ## How Our Social Identities Help Shape Us
 
+---
+
 Take a moment to read [this short comic strip](https://www.rnz.co.nz/news/the-wireless/373065/the-pencilsword-on-a-plate) about how our social identities shape our opportunities in life. While the comic focuses on class, think about how other social identities also shape opportunities in tech.
 
 ## [Equity Versus Equality](#equity-versus-equality)
+
+---
 
 When we value equity, it means that we are focused on giving people what they need to be successful.
 
@@ -18,19 +22,29 @@ As a result As a result of the different experiences people of different social 
 
 ## [Recognizing Privilege](#recognizing-privilege)
 
+---
+
 There is no compelling evidence to show that white men have innately better ability to code and work in the tech industry than other groups. Rather, both white people and men have long had more **privilege** than other underrepresented groups in the tech industry - and this trend continues to this day. **Privilege** is an unearned advantage that a society gives to some but not all people. Because of systemic racism, sexism, and other societal issues, underrepresented groups are not given these same privileges.
 
-There are many different kinds of privilege. For instance, take a look at the chart below from [Frame Shift Consulting's Ally Skills Workshop](https://frameshiftconsulting.com/ally-skills-workshop/), which illustrates different sources of power and privilege.
-
-![Chart shows examples of power and privilege.](https://www.dropbox.com/s/drxcizf28n1p3zf/image3.png?raw=1)
-
-Now consider this excerpt from a [blog post by a Avery Francis, a Black woman working in HR for tech companies](https://blog.usejournal.com/the-black-experience-what-being-black-in-tech-really-feels-like-e3574ba28280), about some of the privileges Black people lack:
+Here's an excerpt from a [blog post by a Avery Francis, a Black woman working in HR for tech companies](https://blog.usejournal.com/the-black-experience-what-being-black-in-tech-really-feels-like-e3574ba28280), about some of the privileges Black people lack:
 
 > For BIPOCs, socioeconomic status is often a barrier to entering the tech industry. Marginalized groups don’t typically have equal access to computer technology, often growing up in environments that are missing these tools. This makes early technological adoption challenging. Additionally, BIPOCS typically have less access to quality education than their white counterparts. Clustered into underserved neighbourhoods with neglected public-school funding, Black students have less exposure to adequate resources.
 
 > Even when they beat the odds, Black candidates are less likely to be hired. Statistics Canada revealed that in 2016, nearly seven in ten Black adults (25 to 59 years) had a postsecondary diploma. Still, the employment rate for Black men (78%) and Black women (71%) was lower compared to the overall population (83% and 75% respectively). It’s these kinds of unequal conditions that disproportionately impact the Black community, further limiting exposure and access to highly skilled industries like tech.
 
-Remember, we all have intersecting identities, and some have more privileges, and some have less. Take a moment to think about your identities, what privileges they give you at Epicodus, and what privileges you don't have.
+Let’s reflect on our own social identities using the activity below from [YW Boston](https://www.ywboston.org/about-us/). YW Boston is an organization that “helps individuals and organizations change policies, practices, attitudes, and behaviors with the goal of creating more inclusive environments where women, people of color, and especially women of color can succeed”. The activity presents a chart of social identities (for example: race, gender, etc), each of which corresponds to a slice of the circle. Then, for each social identity, the chart labels the identity in the position of power on the outside of the circle, and the marginalized identities on the inside of the circle. For each social identity, the activity asks you to mark down:
+
+*  which identity you align with, 
+*  whether this identity is invisible, and 
+*  whether or not the perceived identity aligns with how you feel about yourself.
+
+![This is an activity that helps you to reflect on your social identities: (1) which ones you align with, (2) which ones are invisible, and (3) whether or not a perceived identity aligns with how you feel about yourself.](https://www.dropbox.com/s/8hsm9692qhqaq80/Social-Identity-Activity-ywboston-1.png?raw=1)
+
+Finally, we’d like you to consider how many different sources of power and privilege there are. Take a look at the chart below from [Frame Shift Consulting's Ally Skills Workshop](https://frameshiftconsulting.com/ally-skills-workshop/), which illustrates different sources of power and privilege.
+
+![Chart shows examples of power and privilege.](https://www.dropbox.com/s/drxcizf28n1p3zf/image3.png?raw=1)
+
+Remember, we all have intersecting identities, and some have more privileges, and some have less. As you think about your own social  identities, consider what privileges they give you at Epicodus, and what privileges you don't have.
 
 ### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
 
@@ -41,4 +55,5 @@ There is a reflective assignment for this lesson. If you are ready to write your
 Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
+
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
