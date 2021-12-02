@@ -16,7 +16,7 @@ Every reflective assignment is automatically assigned a pass/fail status based o
 
 You can edit your personal reflections by returning to the prompt and directly editing your response in the text box. Once you are satisfied, simply click "Resubmit" to record your changes.
 
-Also, you will see a due date for every reflective assignment on Epicenter. If you are ever unsure about the due date for a personal reflection, the best thing to do is to review the due date listed on the prompt. As a rule, each reflection is due in the same week that the corresponding lesson reading is assigned: 
+You will see a due date for every reflective assignment on Epicenter. If you are ever unsure about the due date for a personal reflection, the best thing to do is to review the due date listed on the Epicenter prompt. As a rule, each reflection is due in the same week that the corresponding lesson reading is assigned: 
 
 *  For full-time students, DEI lessons are assigned on Mondays, and the personal reflections are due on Friday at 5 pm.
 *  For part-time students, DEI lessons are assigned on Wednesday, and the personal reflections are due on Sunday at 8 am. 
@@ -33,11 +33,11 @@ To make things straightforward, every DEI lesson has a link at the bottom of the
 
 If you Follow these steps to find the reflection prompt for the DEI lesson you finished reading:
 
-  * Log into _Epicenter_.
-  * If you are not already on this page, select _Courses_ from the navigation bar at the top of the page.
-  * Select your current course.
-  * Then, look for the _Personal reflections_ section within that course. 
-  * Find and select the reflection that matches the title of the DEI lesson. This will open the submission page with the reflection prompt.
+1.  Log into _Epicenter_.
+2. If you are not already on this page, select _Courses_ from the navigation bar at the top of the page.
+3. Select your current course.
+4. Then, look for the _Personal reflections_ section within that course. 
+5. Find and select the reflection that matches the title of the DEI lesson. This will open the submission page with the reflection prompt.
 
 ### [Giving Feedback](#giving-feedback)
 
