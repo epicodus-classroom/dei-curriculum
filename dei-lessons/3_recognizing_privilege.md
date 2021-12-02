@@ -4,7 +4,11 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. 
 
 ---
 
-Take a moment to read [this short comic strip](https://www.rnz.co.nz/news/the-wireless/373065/the-pencilsword-on-a-plate) about how our social identities shape our opportunities in life. While the comic focuses on class, think about how other social identities also shape opportunities in tech.
+Take a moment to read this short comic strip about how our social identities shape our opportunities in life:
+
+**<span class="glyphicon glyphicon-link"></span> ["On a Plate" by Toby Morris](https://www.rnz.co.nz/news/the-wireless/373065/the-pencilsword-on-a-plate)** 
+
+While the comic focuses on class, think about how other social identities also shape opportunities in tech.
 
 ## [Equity Versus Equality](#equity-versus-equality)
 
