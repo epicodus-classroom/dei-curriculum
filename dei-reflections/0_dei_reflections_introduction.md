@@ -16,10 +16,10 @@ Every reflective assignment is automatically assigned a pass/fail status based o
 
 You can edit your personal reflections by returning to the prompt and directly editing your response in the text box. Once you are satisfied, simply click "Resubmit" to record your changes.
 
-You will see a due date for every reflective assignment on Epicenter. If you are ever unsure about the due date for a personal reflection, the best thing to do is to review the due date listed on the Epicenter prompt. As a rule, each reflection is due in the same week that the corresponding lesson reading is assigned: 
+You will see a due date for every reflective assignment on Epicenter. If you are ever unsure about the due date for a personal reflection, the best thing to do is to review the due date listed on the Epicenter prompt. As a rule, each reflection is due within the same week that the corresponding lesson reading is assigned: 
 
-*  For full-time students, DEI lessons are assigned on Mondays, and the personal reflections are due on Friday at 5 pm.
-*  For part-time students, DEI lessons are assigned on Wednesday, and the personal reflections are due on Sunday at 8 am. 
+*  For full-time students, DEI lessons are assigned on Mondays, and the personal reflections are due on Fridays at 5 pm.
+*  For part-time students, DEI lessons are assigned on Wednesdays, and the personal reflections are due on Sundays at 8 am. 
 
 There is no penalty for missing a due date. Rather, it is meant to help you stay on track to complete your personal reflections before you move onto internships. As long as you are enrolled in or an alum of Epicodus, you can access and update any reflection you write.
 
