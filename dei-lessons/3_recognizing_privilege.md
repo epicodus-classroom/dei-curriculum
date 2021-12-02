@@ -1,6 +1,6 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week, we'll learn about why DEI efforts are so important in the tech industry - and elsewhere.
 
-## How Our Social Identities Help Shape Us
+## [How Our Social Identities Help Shape Us](#how-our-social-identities-help-shape-us)
 
 ---
 

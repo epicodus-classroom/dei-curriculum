@@ -2,6 +2,8 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. 
 
 ## [Asking Questions](#asking-questions)
 
+---
+
 When we are learning how to code and spending many hours every day problem-solving, it can be easy to get overly focused on trying to have all the answers.
 
 This can be particularly problematic when it comes to inclusion. In order to work well with others, the questions are often more important than the answers.
@@ -34,6 +36,8 @@ Of course, asking is only part of the equation. It's even more important to list
 
 ## [Listening](#listening)
 
+---
+
 Let's take another look at the scenario from before. John says "I have an idea. Can I run it by you?" In response, Tim says, "Not quite yet. I want to try something first." John insists on trying his idea anyway and takes the keyboard from Tim.
 
 In this scenario, John asks a question but he doesn't listen to or heed Tim's answer. The end result is the same - perhaps even worse - than if he'd just taken the keyboard without asking. Tim feels shut down. He may not be invested in working with John anymore. He may even decide not to pair with John again in the future.
@@ -50,6 +54,8 @@ In order to be better listeners, we can do the following:
 2. **Respond or take action based on what we've been told.** For instance, if we ask a question, we need to be prepared to listen and take action based on the response. In the example above, when Tim says he wants to try another approach, John's actions demonstrate a disregard for his pair's response. The better course of action here would be for John to wait until it's his turn to drive or until Tim lets John know that he'd like to hear his answer.
 
 ## [Asking and Listening Can Help Us Avoid Common Pitfalls](#asking-and-listening-can-help-us-avoid-common-pitfalls)
+
+---
 
 Here are some issues that can come up if we don't ask and listen.
 
@@ -76,4 +82,5 @@ There is a reflective assignment for this lesson. If you are ready to write your
 Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
+
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

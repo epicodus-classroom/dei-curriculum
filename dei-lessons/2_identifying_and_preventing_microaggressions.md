@@ -4,6 +4,8 @@ This week, we will cover microaggressions: what they are, how they impact people
 
 ## [Marginalization](#marginalization)
 
+---
+
 When you are marginalized, you are treated as an outsider or you are in the minority in a given situation. Please consider the following experiences from individuals who have experienced marginalization.
 
 Consider this excerpt from a [blog post by Jules Walter, a Black software engineer](https://medium.com/tech-diversity-files/diversity-in-tech-the-unspoken-empathy-gap-5b806c83d717):
@@ -24,6 +26,8 @@ When we're already tense from sticking out, the uncertainty of whether and why w
 
 ## [Understanding Microaggressions](#understanding-microaggressions)
 
+---
+
 The way that Lindsay Grizzard's boss didn't want to pair program with her is an example of a **microaggression**. Derald Wing Sue, Professor of Psychology and Education at Columbia University, defines microaggressions as:
 
 > ...everyday verbal, nonverbal, and environmental slights, often unintentional, which communicate negative messages to people in marginalized groups. These messages communicate they are lesser, suggest they do not belong with the majority group, or relegate them to inferior status and treatment.
@@ -43,6 +47,8 @@ Here are several real-world examples of microaggressions, including some we've a
 
 ## [The Impact of Microaggressions](#the-impact-of-microaggressions)
 
+---
+
 The term microaggression combines the words "micro" and "aggression," but in some ways the term is misleading because the impact of microaggressions long-term is very significant. According to Dr. Sue:
 
 > (Microaggressions) have been found to: (a) assail the mental health of recipients, (b) create a hostile and invalidating work or campus climate, (c) perpetuate stereotype threat, (d) create physical health problems, (e) saturate the broader society with cues that signal devaluation of social group identities, (f) lower work productivity and problem solving abilities, and (g) be partially responsible for creating inequities in education, employment and health care.
@@ -52,6 +58,8 @@ These issues arise because microaggressions themselves can be subtle even if the
 > Microaggressions hold their power because they are invisible, and therefore they don't allow whites to see that their actions and attitudes may be discriminatory. Therein lies the dilemma. The person of color is left to question what actually happened. The result is confusion, anger and an overall draining of energy.
 
 ## [Avoiding Microaggressions](#avoiding-microaggressions)
+
+---
 
 If you rarely have that "sticking out" feeling, we really encourage you to start regularly thinking about how your actions impact people in minority groups. (If this feels like a lot to ask, think back to Jules Walter's suggestion to remember an experience where you were a minority and the emotional energy that state took; surely you can spare some of your own brain power to help others who are in this situation!) Here are a few rules of thumb to help you help others feel included:
 
@@ -64,6 +72,8 @@ If you rarely have that "sticking out" feeling, we really encourage you to start
 * Remember that current students are your future coworkers and network. Have fun, but act as you would in a professional workplace. After all, Epicodus is essentially your first "job" in the industry. Leave a good impression.
 
 ## [Dealing with Microaggressions](#dealing-with-microaggressions)
+
+---
 
 But what should we do if we are involved in a microaggression, whether as the target, a witness, or the person committing it? Here are some tips on handling microaggressions from each of these three roles:
 
@@ -110,7 +120,7 @@ To create a safe and welcoming learning environment, it's important that all stu
 
 Students that repeatedly target others with microaggressions, and/or display no improvement in this behavior after staff intervention are in violation of our Code of Conduct (in our [Student Handbook](https://www.epicodus.com/student-handbook/)) and will be asked to leave.
 
-### [Continuing to Talk About Microagressions](#continuing-to-talk-about-microaggressions)
+### [Continuing to Talk About Microaggressions](#continuing-to-talk-about-microaggressions)
 
 Talking about our identities can be uncomfortable, especially if you haven't had these kinds of conversations before. It can be tempting to make jokes as a way of lessening that discomfort, but we'd urge you to avoid this kind of humor. Being a minority in any environment can be stressful, and having somebody joke about that experience can feel belittling.
 
@@ -128,6 +138,8 @@ We recommend checking out the following resources if you are interested in becom
 * [Being an Ally to Women in Technology](https://medium.com/@hadrad1000/how-do-i-ally-being-an-ally-to-women-in-technology-73b70fb86a98): A resource on being an ally to women in tech.
 
 ## [Further Resources](#further-resources)
+
+---
 
 *  [_Racial Microaggressions in Everyday Life_](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201010/racial-microaggressions-in-everyday-life)
 * [_Microaggressions: More than Just Race_](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201011/microaggressions-more-just-race)
@@ -148,4 +160,5 @@ There is a reflective assignment for this lesson. If you are ready to write your
 Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
+
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

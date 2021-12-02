@@ -3,6 +3,8 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
 **Imposter syndrome** is very common in both the tech industry and at Epicodus. In this lesson, we'll define imposter syndrome and discuss why it's a big problem in the tech industry.
  
 ## [What is Imposter Syndrome?](#what-is-imposter-syndrome)
+
+---
  
 Imposter syndrome is the fear that we aren't good enough. This feeling often persists even when we are successful at something. [This article](https://www.apa.org/gradpsych/2013/11/fraud) from the American Psychological Association by Kirsten Weir defines imposter syndrome as a feeling that:
 
@@ -48,6 +50,8 @@ If you're experiencing imposter syndrome, remember that it's a common experience
 Here are some strategies for dealing with imposter syndrome. We are including strategies both for dealing with imposter syndrome if you are experiencing it as well as strategies to help others deal with it. It's important not to make assumptions about whether or not other individuals may be experiencing imposter syndrome. At the same time, we can still take steps to help prevent or reduce imposter syndrome in our community. These strategies are by no means exhaustive - they're just a start!
  
 ## [Strategies to Deal with Imposter Syndrome](#strategies-to-deal-with-imposter-syndrome)
+
+---
  
 * **Don't compare yourself to others.** Instead, look at the progress you're making. Think about where you were yesterday, last week, or even before the program, and how much you've learned since then.
  
@@ -60,6 +64,8 @@ Here are some strategies for dealing with imposter syndrome. We are including st
 * **Talk with your instructor.** In a scheduled meeting with your instructor, discuss concerns you're having about imposter syndrome.
  
 ## [Strategies to Help Others Deal with Imposter Syndrome](#strategies-to-help-others-deal-with-imposter-syndrome)
+
+---
  
 * **Affirm the work that others are doing.** Let others know when they are doing good work.
  
@@ -82,4 +88,5 @@ There is a reflective assignment for this lesson. If you are ready to write your
 Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
+
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

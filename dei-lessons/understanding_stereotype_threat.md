@@ -4,11 +4,11 @@ In a previous lesson, we discussed **implicit bias** and how it can be harmful t
 
 **Stereotype threat** occurs when people from a group that faces stereotypes are put into a situation where they are pressured to disprove that stereotype. Unfortunately, that pressure often leads to worse performance, which can potentially perpetuate the stereotype further.
 
-For example, this [study](https://www.sciencedirect.com/science/article/pii/S0022103198913737) demonstrated that when stereotype threat increased, women did worse on math tests than men. Meanwhile, when stereotype threat was decreased, there was no difference in testing between men and women.
+For example, the study ["Stereotype Threat and Women's Math Performance"](https://www.sciencedirect.com/science/article/pii/S0022103198913737) demonstrated that when stereotype threat increased, women did worse on math tests than men. Meanwhile, when stereotype threat was decreased, there was no difference in testing between men and women.
 
 Unfortunately, simply being a member of an underrepresented population can lead to stereotype threat and imposter syndrome. People from underrepresented populations in the tech community may feel increased pressure to prove their worth. In turn, this pressure can worsen imposter syndrome and affect performance, which creates a vicious cycle.
 
-We recommend reading this [excellent article by the developer Katie Womersley](https://open.buffer.com/talking-about-diversity/) about the topic. In the article, Womersley discusses stereotype threat and how she dealt with it.
+We recommend reading [this excellent article by the developer Katie Womersley](https://open.buffer.com/talking-about-diversity/) about the topic. In the article, Womersley discusses stereotype threat and how she dealt with it.
 
 How can we reduce stereotype threat at Epicodus and in the workplace? Here are a few steps:
 
@@ -27,4 +27,5 @@ There is a reflective assignment for this lesson. If you are ready to write your
 Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
+
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).

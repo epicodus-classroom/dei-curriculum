@@ -2,6 +2,8 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. 
 
 ## [Speaking Up](#speaking-up)
 
+---
+
 In an ideal world, we wouldn't have to worry about microaggressions or other hurtful behavior. Unfortunately, we don't live in that ideal world. When we are on the receiving end of - or see someone else on the receiving end of - a microaggression or other hurtful behavior, we need to have tools in place to speak up.
  
 If we wait until the microaggression occurs, we might find ourselves saying something hurtful in return - or pretending it didn't happen even though we might later wish that we'd addressed it in the moment. By thinking about how we'll address these situations ahead of time, we can be better equipped to deal with them when they do happen.
@@ -71,4 +73,5 @@ There is a reflective assignment for this lesson. If you are ready to write your
 Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
+
 We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
