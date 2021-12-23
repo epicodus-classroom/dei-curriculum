@@ -1,6 +1,10 @@
-This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. **An Epicodus staff member will be leading a discussion on this topic in the next class session during standup.** Please read through this lesson in preparation for the discussion. We encourage you to bring your questions, commentary, reflections, and any experiences that you wish to share with the group. 
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week, we will cover microaggressions: what they are, how they impact people, and how to recognize and prevent them. **An Epicodus staff member will be leading a discussion on this topic in the next class session during standup.** Please read through this lesson in preparation for the discussion. We encourage you to bring your questions, commentary, reflections, and any experiences that you wish to share with the group. 
 
-This week, we will cover microaggressions: what they are, how they impact people, and how to recognize and prevent them.
+## Microaggressions and Inclusion
+
+---
+
+Learning about microaggressions will help us become more sensitive to others feelings and perspectives, and ultimately help us to be more inclusive. While diversity refers to the traits and characteristics that make us different from one another, **inclusion** refers to the actions we take to make others feel welcome. Inclusion is therefore what it takes to make Epicodus a safe and productive learning environment, and what we need in tech in order to diversify the tech industry. 
 
 ## [Marginalization](#marginalization)
 
