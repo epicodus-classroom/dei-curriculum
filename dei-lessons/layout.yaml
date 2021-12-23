@@ -1,12 +1,12 @@
 ---
 - :day: weekend
   :lessons:
-  - :title: "Introduction to Diversity, Equity, and Inclusion Curriculum"
-    :filename: 0_intro_to_dei_talks.md
-  - :title: Equality versus Equity
-    :filename: equity_vs_equality.md
+  - :title: "Social Identities"
+    :filename: 1_social_identities.md
   - :title: Identifying and Preventing Microaggressions
     :filename: 2_identifying_and_preventing_microaggressions.md
+  - :title: Equality versus Equity
+    :filename: equity_vs_equality.md
   - :title: Imposter Syndrome
     :filename: 3_imposter_syndrome.md
   - :title: Asking and Listening
