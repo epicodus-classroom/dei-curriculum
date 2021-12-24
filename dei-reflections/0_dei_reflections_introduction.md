@@ -6,7 +6,7 @@ Diversity, Equity, and Inclusion (DEI) curriculum at Epicodus includes periodic 
 
 In this lesson, we’ll discuss the reflective assignments that are tied to each DEI lesson. We also call these assignments “personal reflections”, in which you'll be given a prompt that you’ll write a short, reflective response to. You will write one personal reflection for every DEI lesson. The DEI lessons are integrated throughout each learning course, however [you can find every DEI lesson listed here](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons) to get a preview of what's to come. To help you stay on track with theses assignments, at the end of every DEI lesson, we remind students to write their personal reflection and share a link to the reflection prompt on Epicenter.
 
-**Completing these reflective assignments is a graduation requirement at Epicodus.** Whereas our workshops are focused on group work, these reflective assignments are an opportunity for you to reflect and engage with important DEI topics by yourself.
+**Engaging in these reflective assignments is optional, but highly encouraged!** Whereas our workshops are focused on group work, these reflective assignments are an opportunity for you to reflect and engage with important DEI topics by yourself.
 
 ### [How These Assignments Work](#how-these-assignments-work)
 
@@ -14,14 +14,9 @@ You will write your personal reflection directly in Epicenter. Similar to CRs, r
 
 Every reflective assignment is automatically assigned a pass/fail status based on whether you've submitted a response or not. Your response can be long or short - whatever suits you. However, you must write a response in order for the assignment to be considered passing. There is no grade or staff feedback. However, staff will periodically review responses.
 
-You can edit your personal reflections by returning to the prompt and directly editing your response in the text box. Once you are satisfied, simply click "Resubmit" to record your changes.
+You can edit your personal reflections by returning to the prompt and directly editing your response in the text box. Once you are satisfied, simply click "Resubmit" to record your changes. As long as you are enrolled in or an alum of Epicodus, you can access and update any reflection you write.
 
-You will see a due date for every reflective assignment on Epicenter. If you are ever unsure about the due date for a personal reflection, the best thing to do is to review the due date listed on the Epicenter prompt. As a rule, each reflection is due within the same week that the corresponding lesson reading is assigned: 
-
-*  For full-time students, DEI lessons are assigned on Mondays, and the personal reflections are due on Fridays at 5 pm.
-*  For part-time students, DEI lessons are assigned on Wednesdays, and the personal reflections are due on Sundays at 8 am. 
-
-There is no penalty for missing a due date. Rather, it is meant to help you stay on track to complete your personal reflections before you move onto internships. As long as you are enrolled in or an alum of Epicodus, you can access and update any reflection you write.
+If you do not want to engage with a reflection prompt, please write in "decline" as your response. 
 
 ### [Finding the Reflection Prompts](#finding-the-reflection-prompts)
 
