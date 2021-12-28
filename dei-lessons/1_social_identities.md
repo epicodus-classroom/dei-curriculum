@@ -32,9 +32,9 @@ Take a moment to think about your social identities. Which ones are more hidden 
 
 There is a reflective assignment for this lesson. If you are ready to write your reflection, head on over to Epicenter to find the prompt. If you are logged in to Epicenter, you can access the prompt by navigating to this link:
 
-**<span class="glyphicon glyphicon-link"></span> [Reflection Prompt: Recognizing Privilege](https://epicenter.epicodus.com/journals?title=Social+Identities)**
+**<span class="glyphicon glyphicon-link"></span> [Reflection Prompt: Social Identities](https://epicenter.epicodus.com/journals?title=Social+Identities)**
 
-Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/diversity-equity-and-inclusion-reflective-assignments#finding-the-reflection-prompts) lesson.
+Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/dei-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
 
