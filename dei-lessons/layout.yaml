@@ -1,5 +1,5 @@
 ---
-- :day: weekend
+- :day: "Level 1"
   :lessons:
   - :title: "Social Identities"
     :filename: 1_social_identities.md
@@ -7,18 +7,24 @@
     :filename: 2_identifying_and_preventing_microaggressions.md
   - :title: Equality versus Equity
     :filename: 3_equity_vs_equality.md
+- :day: "Level 2"
+  :lessons:
   - :title: Imposter Syndrome
     :filename: 3_imposter_syndrome.md
   - :title: Asking and Listening
     :filename: 4_asking_and_listening.md
   - :title: Speaking Up
     :filename: 5_speaking_up.md
+- :day: "Level 3"
+  :lessons:
   - :title: Recognizing Privilege
     :filename: 3_recognizing_privilege.md
   - :title: "Inclusive Terminology: Using a Main Branch"
     :filename: changing_master_to_main_gh.md
   - :title: Jokes and Appropriate Humor
     :filename: 8_jokes_and_humor.md
+- :day: "Level 4"
+  :lessons:
   - :title: Addressing Implicit Bias
     :filename: addressing_implicit_bias.md
   - :title: Understanding Stereotype Threat
