@@ -1,8 +1,8 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week we will cover equity and how it differs from equality. 
 
-Epicodus as an organization believes strongly in promoting diversity in the tech field. According to the [Diversity in High Tech](https://www.eeoc.gov/eeoc/statistics/reports/hightech/upload/diversity-in-high-tech-report.pdf) report by the U.S. Equal Employment Opportunity Commission: many technical roles are currently held by white men while other groups such as women and people of color are underrepresented.
+Epicodus as an organization believes strongly in promoting diversity in the tech field. According to the [Diversity in High Tech](https://www.eeoc.gov/special-report/diversity-high-tech) report by the U.S. Equal Employment Opportunity Commission: many technical roles are currently held by white men while other groups such as women and people of color are underrepresented.
 
-It wasn't always this way. In fact, before the advent of personal computers, computer programming jobs had a much more even gender balance. To find out more, check out this fascinating article [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html).
+It wasn't always this way. In fact, before the advent of personal computers, computer programming jobs had a much more even gender balance. To find out more, check out this fascinating article [The Secret History of Women in Coding](https://web.archive.org/web/20220313005202/https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html).
 
 One thing the article discusses is how the computer programming field became much more skewed towards men after personal computers were invented. This is because boys were encouraged to use computers and received them as gifts, but girls didn't. As a result, the programming field gradually came to be dominated by men.
 
