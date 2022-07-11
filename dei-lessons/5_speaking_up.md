@@ -8,7 +8,7 @@ In an ideal world, we wouldn't have to worry about microaggressions or other hur
  
 If we wait until the microaggression occurs, we might find ourselves saying something hurtful in return - or pretending it didn't happen even though we might later wish that we'd addressed it in the moment. By thinking about how we'll address these situations ahead of time, we can be better equipped to deal with them when they do happen.
  
-The tools we discuss in this lesson are adapted from the following [Ally Skills Workshop handout](https://files.frameshiftconsulting.com/Ally%20Skills%20Workshop%20handout%20-%20Letter.pdf), which is provided by Frame Shift Consulting.
+The tools we discuss in this lesson are adapted from [the workshop materials provided by Frame Shift Consulting](https://frameshiftconsulting.com/ally-skills-workshop/).
  
 When addressing a microaggression or other hurtful behavior, the following approaches can be helpful:
  
