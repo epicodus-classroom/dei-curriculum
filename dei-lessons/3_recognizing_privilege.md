@@ -22,7 +22,7 @@ There's a problem with treating everyone the same. People are born in different 
 
 Also, there's a simple, sad fact - we have a long way to go, both in the tech industry and in our country, not just on issues of equity but also on basic equality. In all likelihood, Paula wouldn't get equitable _or_ equal opportunity, as she'd battle assumptions about her abilities because of her gender and race.
 
-As a result As a result of the different experiences people of different social identities have, women, BIPOC (Black, Indigenous, and People of Color), and other groups are still underrepresented in the tech industry, as this [Wired article shows](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). Instead, as the charts in this article demonstrate, the industry is overwhelmingly white and male.
+As a result of the different experiences people of different social identities have, women, BIPOC (Black, Indigenous, and People of Color), and other groups are still underrepresented in the tech industry, as this [Wired article shows](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). Instead, as the charts in this article demonstrate, the industry is overwhelmingly white and male.
 
 ## [Recognizing Privilege](#recognizing-privilege)
 
