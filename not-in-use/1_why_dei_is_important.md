@@ -2,7 +2,7 @@ This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
 
 ## Why are Diversity, Equity, and Inclusion Important?
 
-At Epicodus, we believe people should have opportunities to get great tech jobs - and feel included at those jobs, and at Epicodus - regardless of their background. 
+At Epicodus, we believe people should have opportunities to get great tech jobs — and feel included at those jobs, and at Epicodus — regardless of their background. 
 
 Students and workers from underrepresented groups face challenges that people from majority groups don't. This DEI curriculum won't solve all of the challenges they face, but we hope it will give them some tools to help navigate those challenges.
 

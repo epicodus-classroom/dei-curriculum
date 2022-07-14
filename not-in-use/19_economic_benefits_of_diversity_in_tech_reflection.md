@@ -14,7 +14,7 @@ We hope you find these reflective assignments to be thought-provoking! We always
 
 Please write a reflection about this prompt:
 
-> Imagine you are talking with your manager or your colleague about how there are no actual initiatives for improving diversity or inclusion at your company - how can you take the information in this lesson to advocate for a committee to be formed? What initiatives might you suggest?
+> Imagine you are talking with your manager or your colleague about how there are no actual initiatives for improving diversity or inclusion at your company — how can you take the information in this lesson to advocate for a committee to be formed? What initiatives might you suggest?
 
 To review the lesson for this prompt, visit this link:
 

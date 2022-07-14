@@ -18,7 +18,7 @@ According to [Maxine Williams, the Global Chief Diversity Officer at Facebook](h
 
 > Every Monday, when we get a new class of hires, I say to them, "I don't want you to come in here and think that you need to use 'blind' as a suffix. That you need to describe people as 'just my colleagues' or say things like, 'I don't see race. I don't see gender. I'm colorblind. Sexual-orientation blind.' In doing so you're neutralizing a part of a person that is an asset. I want you to see those characteristics and see them as adding value."
 
-Ultimately, diversity is an asset, not a liability - and diversity makes both Epicodus and other organizations better places to work.
+Ultimately, diversity is an asset, not a liability — and diversity makes both Epicodus and other organizations better places to work.
 
 ### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
 

@@ -1,4 +1,4 @@
-This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week, we'll learn about why DEI efforts are so important in the tech industry - and elsewhere.
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. This week, we'll learn about why DEI efforts are so important in the tech industry — and elsewhere.
 
 ## [How Our Social Identities Help Shape Us](#how-our-social-identities-help-shape-us)
 
@@ -16,11 +16,11 @@ While the comic focuses on class, think about how other social identities also s
 
 When we value equity, it means that we are focused on giving people what they need to be successful.
 
-On the other hand, equality is the idea that we should treat everyone the same no matter what - even if that means some people won't be successful as a result.
+On the other hand, equality is the idea that we should treat everyone the same no matter what — even if that means some people won't be successful as a result.
 
-There's a problem with treating everyone the same. People are born in different situations, with different challenges, and with different opportunities. Think about the comic strip - if Richard and Paula both attended Epicodus in their thirties, what barrier would each of them face? How would those barriers be different?
+There's a problem with treating everyone the same. People are born in different situations, with different challenges, and with different opportunities. Think about the comic strip — if Richard and Paula both attended Epicodus in their thirties, what barrier would each of them face? How would those barriers be different?
 
-Also, there's a simple, sad fact - we have a long way to go, both in the tech industry and in our country, not just on issues of equity but also on basic equality. In all likelihood, Paula wouldn't get equitable _or_ equal opportunity, as she'd battle assumptions about her abilities because of her gender and race.
+Also, there's a simple, sad fact: we have a long way to go, both in the tech industry and in our country, not just on issues of equity but also on basic equality. In all likelihood, Paula wouldn't get equitable _or_ equal opportunity, as she'd battle assumptions about her abilities because of her gender and race.
 
 As a result of the different experiences people of different social identities have, women, BIPOC (Black, Indigenous, and People of Color), and other groups are still underrepresented in the tech industry, as this [Wired article shows](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). Instead, as the charts in this article demonstrate, the industry is overwhelmingly white and male.
 
@@ -28,7 +28,7 @@ As a result of the different experiences people of different social identities h
 
 ---
 
-There is no compelling evidence to show that white men have innately better ability to code and work in the tech industry than other groups. Rather, both white people and men have long had more **privilege** than other underrepresented groups in the tech industry - and this trend continues to this day. **Privilege** is an unearned advantage that a society gives to some but not all people. Because of systemic racism, sexism, and other societal issues, underrepresented groups are not given these same privileges.
+There is no compelling evidence to show that white men have innately better ability to code and work in the tech industry than other groups. Rather, both white people and men have long had more **privilege** than other underrepresented groups in the tech industry — and this trend continues to this day. **Privilege** is an unearned advantage that a society gives to some but not all people. Because of systemic racism, sexism, and other societal issues, underrepresented groups are not given these same privileges.
 
 Here's an excerpt from a [blog post by a Avery Francis, a Black woman working in HR for tech companies](https://blog.usejournal.com/the-black-experience-what-being-black-in-tech-really-feels-like-e3574ba28280), about some of the privileges Black people lack:
 

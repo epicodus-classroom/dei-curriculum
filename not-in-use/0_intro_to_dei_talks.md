@@ -37,9 +37,9 @@ To ensure a safe and productive space in our classroom, we’ve created a set of
 **Respect:** We agree to treat other participants' reflections and questions with respect. We acknowledge once again that we may be at different stages of learning on the topic. However, this does not mean we should ignore problematic statements. **See the information below on calling in and calling out.** Both approaches are valid and can be done with care and respect, with the goal of helping each other learn.
 
 *  [Calling In: A Quick Guide on When and How](https://everydayfeminism.com/2015/01/guide-to-calling-in/)
-*  [Video - Call people out on their words/actions, rather than their intent](https://www.youtube.com/watch?v=b0Ti-gkJiXc)
+*  [Video — Call people out on their words/actions, rather than their intent](https://www.youtube.com/watch?v=b0Ti-gkJiXc)
 *  [I was wrong and I am sorry (When you are called out or called in)](http://womeninastronomy.blogspot.com/2015/04/i-was-wrong-and-i-am-sorry.html)
-*  [Video - Getting Called Out: How to Apologize](https://www.youtube.com/watch?v=C8xJXKYL8pU&t=2s)
+*  [Video — Getting Called Out: How to Apologize](https://www.youtube.com/watch?v=C8xJXKYL8pU&t=2s)
 
 **Individual Experience:** We agree that no one should be required or expected to speak for their whole race or gender. We can't, even if we wanted to.
  

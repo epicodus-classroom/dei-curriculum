@@ -1,6 +1,6 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
 
-If you feel discouraged about your prospects of entering tech as a member of an underrepresented group - there are many organizations out there working hard to promote inclusion in the tech industry.
+If you feel discouraged about your prospects of entering tech as a member of an underrepresented group — there are many organizations out there working hard to promote inclusion in the tech industry.
 
 Such organizations hosts meetups and offer programs to serve underrepresented groups. Going to their meetups can bring new networking opportunities where you can meet individuals of an underrpresented group who are established in the tech field. Meetups can also offer a system of support.
 

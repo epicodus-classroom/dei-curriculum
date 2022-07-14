@@ -8,9 +8,9 @@ This terminology has been a matter of discussion in the tech industry for many y
  
 GitHub has also followed suit, and in the summer of 2020, announced that it was changing the name of the default branch for GitHub repositories from `master` to `main`. In git, the term _master branch_ refers to the default branch where production-ready code should go. While there is no corresponding use of the term _slave_ in git, _master_ is still a loaded term. The _master branch_ still refers to a branch that "controls" other branches (after all, git is a form of version control).
  
-While it may seem relatively straightforward to change the name of the default branch in GitHub - after all, it's just a single word that needs to be changed - from a coding and documentation perspective, it can take a while to implement these changes while making sure nothing big breaks in the process. That is the case for Epicodus, too. While changing _master_ to _main_ in the curriculum itself is easy, it also means updating images, lesson repositories and links, which is an ongoing process.
+While it may seem relatively straightforward to change the name of the default branch in GitHub — after all, it's just a single word that needs to be changed — from a coding and documentation perspective, it can take a while to implement these changes while making sure nothing big breaks in the process. That is the case for Epicodus, too. While changing _master_ to _main_ in the curriculum itself is easy, it also means updating images, lesson repositories and links, which is an ongoing process.
  
-In fact, the process isn't fully automatic in git, either. If we create a new repository in the GitHub UI (in the browser) and then make a commit in the UI, we'll see that it's automatically saved on a `main` branch - not `master`!
+In fact, the process isn't fully automatic in git, either. If we create a new repository in the GitHub UI (in the browser) and then make a commit in the UI, we'll see that it's automatically saved on a `main` branch — not `master`!
  
 However, if we make a commit in the command line, we'll see that our code is still automatically saved on the `master` branch.
  
@@ -39,7 +39,7 @@ $ git config --global init.defaultBranch main
 
 For this change to kick in, it is necessary to restart the terminal. Note that you should be on the latest version of git. You can check the version with the command `git --version`. The version should be 2.28.
 
-At this point, we recommend that all students uses `main` as the name of the default branch in GitHub. We strongly support this change - and it's now the default in GitHub anyway.
+At this point, we recommend that all students uses `main` as the name of the default branch in GitHub. We strongly support this change — and it's now the default in GitHub anyway.
 
 That being said, you will likely still see many references to master branches online and in the industry. There are a number of reasons for this:
  
@@ -51,9 +51,9 @@ That being said, you will likely still see many references to master branches on
  
 Hopefully by the end of 2020 these changes will be easier to make. And as far as the change taking time for companies, that includes Epicodus. Sample lesson repositories use the naming convention from before this change. So do some images. While all new repositories will use a main branch instead of master, making changes to existing code takes time.
  
-* **Some companies may not be aware of the updates.** There's a _lot_ changing in the tech industry - and it's hard to keep track of everything. Some companies may not know about the change yet.
+* **Some companies may not be aware of the updates.** There's a _lot_ changing in the tech industry — and it's hard to keep track of everything. Some companies may not know about the change yet.
  
-* **Some companies may be concerned about breaking changes.** Imagine that you have a very big legacy codebase that your company has been working on for the last ten years. There's some shiny new code in there but there's also some crusty old code that would be very painful to update and change. Companies resist making painful changes. For some companies, making this change might seem unnecessarily painful and risky - why risk some major breaking changes to code that the company relies on? Fortunately, GitHub is working towards making the change as seamless as possible so companies can update legacy code to use a different default branch name.
+* **Some companies may be concerned about breaking changes.** Imagine that you have a very big legacy codebase that your company has been working on for the last ten years. There's some shiny new code in there but there's also some crusty old code that would be very painful to update and change. Companies resist making painful changes. For some companies, making this change might seem unnecessarily painful and risky — why risk some major breaking changes to code that the company relies on? Fortunately, GitHub is working towards making the change as seamless as possible so companies can update legacy code to use a different default branch name.
  
 * **Some companies don't care or don't want to change the way they do things.** Old habits die hard. Some won't see the importance of making this change. They might be resistant to making this change. If you end up working for a company that takes this perspective, we recommend finding ways to constructively encourage the company to make the change.
  
