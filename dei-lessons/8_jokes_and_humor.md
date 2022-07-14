@@ -1,8 +1,8 @@
 This lesson is part of our regular Diversity, Equity, and Inclusion curriculum.
 
-A good joke can make people laugh, alleviate stress, and foster a sense of community. We could go on and on about the benefits of laughing and humor - but that's not the purpose of this lesson.
+A good joke can make people laugh, alleviate stress, and foster a sense of community. We could go on and on about the benefits of laughing and humor — but that's not the purpose of this lesson.
  
-Jokes can be a double-edged sword. A joke can make others feel bad just as easily as it can make others feel good - especially if the joke is making fun of others or is otherwise offensive. Even though people sometimes laugh when they are uncomfortable, that doesn't mean they think a hurtful joke is funny.
+Jokes can be a double-edged sword. A joke can make others feel bad just as easily as it can make others feel good — especially if the joke is making fun of others or is otherwise offensive. Even though people sometimes laugh when they are uncomfortable, that doesn't mean they think a hurtful joke is funny.
  
 In this lesson, we’ll go over some important ground rules for humor at Epicodus and in the workplace. [This piece from Harper's Bazaar by Jennifer Wright](https://www.harpersbazaar.com/culture/politics/a12022021/offensive-jokes/) explains this issue well. While this article focuses on the effects of hurtful jokes on women, the general principles apply to other groups, too. Here’s an excerpt from the article:
  
@@ -18,10 +18,10 @@ In this lesson, we’ll go over some important ground rules for humor at Epicodu
  
 Here are some key tips to consider when it comes to humor at Epicodus, in the workplace, and elsewhere:
  
-* **Keep it professional.** If you're in a professional setting (which includes Epicodus), keep it professional. You can still tell jokes - but keep them "safe for work."
+* **Keep it professional.** If you're in a professional setting (which includes Epicodus), keep it professional. You can still tell jokes — but keep them "safe for work."
 * **Don't tell offensive or otherwise hurtful jokes.** If you think it's even possible that a joke could be offensive, steer clear.
-* **Don't tell jokes about members of underrepresented groups.** This is an extension of the above point but it's important to emphasize. Underrepresented groups include but are not limited to women, people of color, and people with disabilities - as well as many other groups.
-* **If you accidentally offend someone, apologize.** There's no need to get worked up - just apologize if your joke landed the wrong way.
+* **Don't tell jokes about members of underrepresented groups.** This is an extension of the above point but it's important to emphasize. Underrepresented groups include but are not limited to women, people of color, and people with disabilities — as well as many other groups.
+* **If you accidentally offend someone, apologize.** There's no need to get worked up — just apologize if your joke landed the wrong way.
 
 ### [Ready to Write Your Reflection?](#ready-to-write-your-reflection)
 
