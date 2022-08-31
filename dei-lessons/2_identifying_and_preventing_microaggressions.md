@@ -44,7 +44,7 @@ Here are several real-world examples of microaggressions, including some we've a
 * A transgender student tells co-students their pronouns, but some students make minimal effort to use them, or ignore the request. (Hidden message: _"Your identity doesn't matter unless it fits into my predefined notions."_)
 * A younger student assists an older student with a piece of technology without being asked. (Hidden message: _"Older students are less skilled at using technology."_)
 * A white student asks a student of color "Where are you _originally_ from?" (Hidden message: _"You're a perpetual outsider in this classroom, city, country, etc."_)
-* An able-bodied student asks a person with a disability about her mobility device. (Hidden message: _"You are different and less capable."_)
+* A non-disabled student asks a student with a disability about her mobility device. (Hidden message: _"You are different and less capable."_)
 * For team week, three male students write a project idea on the board that references pornography. (Hidden messages: _"Referencing sexual content in the workplace is normal, and anyone that feels uncomfortable should just get used to the 'boy's club' of tech."_)
 * An older student refers to their younger co-students as 'kids'. (Hidden message: _"Younger students are lacking in comparison to their older counterparts.",_)
 * A student brings in snacks to share with their class. Another student politely declines the food, mentioning they're fasting in recognition of a religious holiday. The offering student exclaims _"That's sooooo crazy! I could never fast like that! Insane! How do you do it?!"_ (Hidden message: _"Your religious practices and identity are abnormal."_)
