@@ -65,7 +65,7 @@ These issues arise because microaggressions themselves can be subtle even if the
 
 ---
 
-If you rarely have that "sticking out" feeling, we really encourage you to start regularly thinking about how your actions impact people in minority groups. (If this feels like a lot to ask, think back to Jules Walter's suggestion to remember an experience where you were a minority and the emotional energy that state took; surely you can spare some of your own brain power to help others who are in this situation!) Here are a few rules of thumb to help you help others feel included:
+If you rarely have that "sticking out" feeling, we really encourage you to start regularly thinking about how your actions impact people in minority groups. (If this feels like a lot to ask, think back to Jules Walter's suggestion to remember an experience where you were a minority and the emotional energy that state took; surely you can spare some of your own brain power to help others who are in this situation!) Here are a few guidelines to help you help others feel included:
 
 * Don't call attention to a person's status as a member of a minority community, even if you don't mean it "negatively".
 * Don't make jokes about marginalized groups or communities.
