@@ -42,7 +42,7 @@ Let’s reflect on our own social identities using the activity below from [YW B
 *  whether this identity is invisible, and 
 *  whether or not the perceived identity aligns with how you feel about yourself.
 
-![This is an activity that helps you to reflect on your social identities: (1) which ones you align with, (2) which ones are invisible, and (3) whether or not a perceived identity aligns with how you feel about yourself.](https://www.dropbox.com/s/8hsm9692qhqaq80/Social-Identity-Activity-ywboston-1.png?raw=1)
+![This is an activity that helps you to reflect on your social identities: (1) which ones you align with, (2) which ones are invisible, and (3) whether or not a perceived identity aligns with how you feel about yourself.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/DEI-Images/Social-Identity-Activity-ywboston-1.png)
 
 Finally, we’d like you to consider how many different sources of power and privilege there are. Take a look at the chart below from [Frame Shift Consulting's Ally Skills Workshop](https://frameshiftconsulting.com/ally-skills-workshop/), which illustrates different sources of power and privilege.
 
