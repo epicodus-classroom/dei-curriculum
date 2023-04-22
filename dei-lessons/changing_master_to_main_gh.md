@@ -16,7 +16,7 @@ However, if we make a commit in the command line, we'll see that our code is sti
  
 Fortunately, we can easily update the name of the default branch with a single command. In fact, whenever we create a new repository in the GitHub UI, it helpfully provides these instructions for us.
 
-![GitHub UI instructions for changing name of default branch.](https://www.dropbox.com/s/ubg3jdg1ljcucao/github-ui-git-instructions.png?raw=1)
+![GitHub UI instructions for changing name of default branch.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/DEI-Images/github-ui-git-instructions.png)
 
 The key takeaway here is that we need a single line of code to update the default branch:
 
