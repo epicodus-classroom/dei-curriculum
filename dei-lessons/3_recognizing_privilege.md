@@ -46,7 +46,7 @@ Let’s reflect on our own social identities using the activity below from [YW B
 
 Finally, we’d like you to consider how many different sources of power and privilege there are. Take a look at the chart below from [Frame Shift Consulting's Ally Skills Workshop](https://frameshiftconsulting.com/ally-skills-workshop/), which illustrates different sources of power and privilege.
 
-![Chart shows examples of power and privilege.](https://www.dropbox.com/s/drxcizf28n1p3zf/image3.png?raw=1)
+![Chart shows examples of power and privilege.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/DEI-Images/image3.png)
 
 Remember, we all have intersecting identities, and some have more privileges, and some have less. As you think about your own social  identities, consider what privileges they give you at Epicodus, and what privileges you don't have.
 
